@@ -444,7 +444,6 @@ function navigate(route, index) {
 
 function bindControls() {
   document.getElementById('exit-home-btn')?.addEventListener('click', () => {
-    // 1. Create a background overlay container
     const modalOverlay = document.createElement('div');
     modalOverlay.id = 'custom-confirm-modal';
     modalOverlay.style.cssText = `
@@ -459,8 +458,6 @@ function bindControls() {
         align-items: center;
         z-index: 9999;
     `;
-
-    // 2. Create the Modal Box structure
     modalOverlay.innerHTML = `
         <div style="
             background: #ffffff;
