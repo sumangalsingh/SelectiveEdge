@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Test Player — SHS Practice</title>
+  <link rel="stylesheet" href="css/player.css" />
+</head>
+<body class="player-body zoom-100">
+  <header class="player-header">
+    <div class="player-brand">
+      <a href="index.html" id="player-home-link">NSW Selective — Practice Test</a>
+    </div>
+    <div class="player-toolbar">
+      <button type="button" id="exit-home-btn">Exit Home</button>
+      <button type="button" id="btn-zoom" aria-label="Change zoom">100%</button>
+      <button type="button" id="btn-timer-toggle">Hide time</button>
+      <div class="player-timer" id="timer" aria-live="polite">40:00</div>
+    </div>
+  </header>
+
+  <div class="player-progress-bar" id="progress-bar" hidden>
+    <button type="button" class="btn-progress" id="btn-progress" aria-haspopup="dialog">
+      <span id="progress-label">Question 1 of 1</span>
+      <span class="grid-icon" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span>
+    </button>
+  </div>
+
+  <div class="split-wrapper">
+    <main id="player-main" role="main"></main>
+  </div>
+
+  <footer class="player-footer" id="player-footer" hidden>
+    <button type="button" class="secondary" id="btn-back">◀ Back</button>
+    <button type="button" class="flag-btn" id="btn-flag" title="Flag for review">⚑ Flag</button>
+    <button type="button" id="btn-next">Next ▶</button>
+  </footer>
+
+  <dialog class="progress-dialog" id="progress-dialog">
+    <div class="progress-dialog-inner">
+      <h2>Progress summary</h2>
+      <p style="color:var(--player-muted);font-size:0.9rem;margin-top:0">Click a question to jump. Flagged questions are marked in gold.</p>
+      <div class="progress-grid" id="progress-grid"></div>
+      <p style="margin-top:1rem;text-align:right">
+        <button type="button" id="btn-close-progress">Close</button>
+      </p>
+    </div>
+  </dialog>
+
+  <script type="module" src="js/player.js"></script>
+</body>
+</html>
