@@ -1,0 +1,4051 @@
+{
+  "schemaVersion": 1,
+  "section": "mathematical-reasoning",
+  "sectionLabel": "Mathematical Reasoning Test",
+  "minutes": 40,
+  "optionCount": 5,
+  "generatedAt": "2026-05-30T13:55:01.126496+00:00",
+  "stats": {
+    "testCount": 4,
+    "totalQuestionsInTests": 59,
+    "uniqueBankQuestions": 59,
+    "withKnownAnswers": 58
+  },
+  "tests": [
+    {
+      "id": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "title": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "source": "newcollege",
+      "minutes": 40,
+      "expectedQuestions": 35,
+      "questionCount": 20,
+      "answeredCount": 20,
+      "completeness": 0.571,
+      "playable": true,
+      "recommended": true,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Four of the numbers on the cards have the same remainder when divided by 5:\n\n33\n43\n68\n83\n119\n\nWhich number has a different remainder?",
+          "options": [
+            {
+              "key": "A",
+              "text": "33"
+            },
+            {
+              "key": "B",
+              "text": "43"
+            },
+            {
+              "key": "C",
+              "text": "68"
+            },
+            {
+              "key": "D",
+              "text": "83"
+            },
+            {
+              "key": "E",
+              "text": "119"
+            }
+          ],
+          "correct": "E",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 2,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "What is the value of the missing number ▲ in this number pattern?\n\n2, 6, ▲, 54, 162, …",
+          "options": [
+            {
+              "key": "A",
+              "text": "10"
+            },
+            {
+              "key": "B",
+              "text": "12"
+            },
+            {
+              "key": "C",
+              "text": "18"
+            },
+            {
+              "key": "D",
+              "text": "30"
+            },
+            {
+              "key": "E",
+              "text": "50"
+            }
+          ],
+          "correct": "C",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 3,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Box 1 is at grid reference B2, box 2 is at C3, and so on.\n\nIf the pattern continues like this, what will be the grid reference of box 40?",
+          "options": [
+            {
+              "key": "A",
+              "text": "B41"
+            },
+            {
+              "key": "B",
+              "text": "B50"
+            },
+            {
+              "key": "C",
+              "text": "B121"
+            },
+            {
+              "key": "D",
+              "text": "C39"
+            },
+            {
+              "key": "E",
+              "text": "C60"
+            }
+          ],
+          "correct": "A",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 4,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Jason has 3 different pairs of trousers and 4 different shirts.\n\nEmily has 2 different pairs of trousers and 5 different shirts.\n\nEach person can make an outfit from their own clothes by choosing 1 pair of trousers\nand 1 shirt.\n\nWho has a larger number of possible outfits, and by how many?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Jason has 2 more outfits than Emily."
+            },
+            {
+              "key": "B",
+              "text": "Jason has 1 more outfit than Emily."
+            },
+            {
+              "key": "C",
+              "text": "They have the same number of outfits."
+            },
+            {
+              "key": "D",
+              "text": "Emily has 1 more outfit than Jason."
+            },
+            {
+              "key": "E",
+              "text": "Emily has 2 more outfits than Jason."
+            }
+          ],
+          "correct": "A",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 5,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Three containers have different amounts of water inside.\n\nContainer X has 1 litre 75 millilitres of water.\n\nContainer Y has 3 litres 45 millilitres of water.\n\nContainer Z has 1250 millilitres of water.\n\nIf the water from all three containers is combined, what will its volume be, in litres (L)\nand millilitres (mL)?",
+          "options": [
+            {
+              "key": "A",
+              "text": "5 L 37 mL"
+            },
+            {
+              "key": "B",
+              "text": "5 L 370 mL"
+            },
+            {
+              "key": "C",
+              "text": "6 L 45 mL"
+            },
+            {
+              "key": "D",
+              "text": "6 L 450 mL"
+            },
+            {
+              "key": "E",
+              "text": "17 L 70 mL"
+            }
+          ],
+          "correct": "B",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 6,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Here are some number cards:\n\n0.5\n0.6\n0.7\n0.65\n0.75\n0.56\n0.76\n0.57\n0.67\n\nMia arranges all the cards in a line, so that the numbers increase from left to right.\n\nWhich number is on the middle card?",
+          "options": [
+            {
+              "key": "A",
+              "text": "0.6"
+            },
+            {
+              "key": "B",
+              "text": "0.65"
+            },
+            {
+              "key": "C",
+              "text": "0.75"
+            },
+            {
+              "key": "D",
+              "text": "0.56"
+            },
+            {
+              "key": "E",
+              "text": "0.57"
+            }
+          ],
+          "correct": "B",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 8,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Bryony draws two right-angled isosceles triangles on the playground to make a\nparallelogram.\n\nShe labels the corners J, K, L and M.\n\nnorth\nJ\nK\nL\nM\n\nThe direction of north is shown.\n\nBryony walks along the sides of the parallelogram, from J to K to L to M.\n\nStarting from J, which order of compass directions does she follow?",
+          "options": [
+            {
+              "key": "A",
+              "text": "SE, then E, then NW"
+            },
+            {
+              "key": "B",
+              "text": "SE, then W, then NW"
+            },
+            {
+              "key": "C",
+              "text": "S, then E, then N, then W"
+            },
+            {
+              "key": "D",
+              "text": "SW, then E, then NE"
+            },
+            {
+              "key": "E",
+              "text": "SW, then W, then NE"
+            }
+          ],
+          "correct": "A",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 11,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "The perimeter of a square is 32 cm.\n\nperimeter = 32 cm\n\nThe square is cut into four smaller squares, as shown in the diagram.\n\nWhat is the perimeter of one of these pieces?",
+          "options": [
+            {
+              "key": "A",
+              "text": "8 cm"
+            },
+            {
+              "key": "B",
+              "text": "12 cm"
+            },
+            {
+              "key": "C",
+              "text": "16 cm"
+            },
+            {
+              "key": "D",
+              "text": "20 cm"
+            },
+            {
+              "key": "E",
+              "text": "24 cm"
+            }
+          ],
+          "correct": "C",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 13,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "The time in Auckland is 13 hours ahead of the time in London.\n\nThe time in Calgary is 7 hours behind the time in London.\n\nWhen it is 5 pm in Calgary, what time is it in Auckland?",
+          "options": [
+            {
+              "key": "A",
+              "text": "1 am"
+            },
+            {
+              "key": "B",
+              "text": "11 am"
+            },
+            {
+              "key": "C",
+              "text": "1 pm"
+            },
+            {
+              "key": "D",
+              "text": "9 pm"
+            },
+            {
+              "key": "E",
+              "text": "11 pm"
+            }
+          ],
+          "correct": "C",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 14,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Four old units for capacity are: gill, pint, quart and peck.\n\n• 4 gills equal 1 pint.\n• 1 pint equals half a quart.\n• 8 quarts equal 1 peck.\n\nHow many gills equal 1 peck?",
+          "options": [
+            {
+              "key": "A",
+              "text": "13"
+            },
+            {
+              "key": "B",
+              "text": "14"
+            },
+            {
+              "key": "C",
+              "text": "16"
+            },
+            {
+              "key": "D",
+              "text": "32"
+            },
+            {
+              "key": "E",
+              "text": "64"
+            }
+          ],
+          "correct": "E",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 15,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "In the prices below, each shape represents a missing digit.\n\n$70.2\n$68.5\n\nWhat is the greatest possible difference between the prices?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$1.61"
+            },
+            {
+              "key": "B",
+              "text": "$1.79"
+            },
+            {
+              "key": "C",
+              "text": "$2.21"
+            },
+            {
+              "key": "D",
+              "text": "$2.39"
+            },
+            {
+              "key": "E",
+              "text": "$2.71"
+            }
+          ],
+          "correct": "B",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 20,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "In a shop, there are three ways to buy mandarins, as shown.\n\n1 mandarin\nfor $0.50\nbag of 10 mandarins\nfor $4.50\nbag of 30 mandarins\nfor $13.00\nbag of 10 mandarins\nf 10 mand\nf 10 m\nb\nf 30\n\nJack has $25. What is the largest number of mandarins he can buy?",
+          "options": [
+            {
+              "key": "A",
+              "text": "50"
+            },
+            {
+              "key": "B",
+              "text": "54"
+            },
+            {
+              "key": "C",
+              "text": "55"
+            },
+            {
+              "key": "D",
+              "text": "56"
+            },
+            {
+              "key": "E",
+              "text": "60"
+            }
+          ],
+          "correct": "D",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 21,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "This graph shows what fraction of the air is made of different types of gas, at different\nheights above sea level.\n\n0\n100\n200\n300\n400\n500\n600\nheight above sea level (km)\n0/1\n2/1\nfraction of air\nmade of gas\nNitrogen\nOxygen\nHelium\n\nWhich of these statements is/are correct?\n\nX\nAt any height above sea level, the fraction of nitrogen is higher than the\nfraction of helium.\n\nY\nThere is more than one height at which the fractions of oxygen and helium are\nthe same.\n\nZ\nAt 200 km above sea level, the air is about half nitrogen and half oxygen.",
+          "options": [
+            {
+              "key": "A",
+              "text": "none of them"
+            },
+            {
+              "key": "B",
+              "text": "statement X only"
+            },
+            {
+              "key": "C",
+              "text": "statement Y only"
+            },
+            {
+              "key": "D",
+              "text": "statement Z only"
+            },
+            {
+              "key": "E",
+              "text": "statements X, Y and Z"
+            }
+          ],
+          "correct": "D",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 24,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Which of these numbers is closest to 10\n7 ?",
+          "options": [
+            {
+              "key": "A",
+              "text": "0.072"
+            },
+            {
+              "key": "B",
+              "text": "0.705"
+            },
+            {
+              "key": "C",
+              "text": "0.68"
+            },
+            {
+              "key": "D",
+              "text": "0.069"
+            },
+            {
+              "key": "E",
+              "text": "0.73"
+            }
+          ],
+          "correct": "B",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 25,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Five friends live in houses on a long straight road in this order:\n\n Felipe, Gina, Heng, Jood, Kerry\n\nFelipe lives 400 m from Heng and 850 m from Kerry.\n\nGina lives three times as far from Felipe as she lives from Heng.\n\nGina and Jood live equal distances from Heng.\n\nHow far does Jood live from Kerry?",
+          "options": [
+            {
+              "key": "A",
+              "text": "150 m"
+            },
+            {
+              "key": "B",
+              "text": "250 m"
+            },
+            {
+              "key": "C",
+              "text": "350 m"
+            },
+            {
+              "key": "D",
+              "text": "650 m"
+            },
+            {
+              "key": "E",
+              "text": "750 m"
+            }
+          ],
+          "correct": "C",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 26,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Rachel, Steve and Taran are three athletes running laps of a long track. They all start\non the start line at the same time.\n\nSTART\n\nRachel runs a lap every 8 minutes.\n\nSteve runs a lap every 10 minutes.\n\nTaran runs a lap every 12 minutes.\n\nAfter how many minutes are the three athletes next on the start line at the same time?",
+          "options": [
+            {
+              "key": "A",
+              "text": "60"
+            },
+            {
+              "key": "B",
+              "text": "72"
+            },
+            {
+              "key": "C",
+              "text": "80"
+            },
+            {
+              "key": "D",
+              "text": "96"
+            },
+            {
+              "key": "E",
+              "text": "120"
+            }
+          ],
+          "correct": "E",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 28,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "When this can of sweetcorn is half full, the sweetcorn and can together have a mass of\n120 grams.\n\nWhen the can of sweetcorn is one-quarter full, the sweetcorn and can together have a\nmass of 65 g.\n\nWhat is the mass of the can and sweetcorn together when the can is three-quarters\nfull?",
+          "options": [
+            {
+              "key": "A",
+              "text": "165 g"
+            },
+            {
+              "key": "B",
+              "text": "175 g"
+            },
+            {
+              "key": "C",
+              "text": "180 g"
+            },
+            {
+              "key": "D",
+              "text": "185 g"
+            },
+            {
+              "key": "E",
+              "text": "195 g"
+            }
+          ],
+          "correct": "B",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 30,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "The design below is made of identical white rectangles and a shaded square:\n\n [diagram not to scale]\n\nThe width of each rectangle is 4 cm.\n\nThe area of each rectangle is 36 cm2.\n\nWhat is the area of the shaded square?",
+          "options": [
+            {
+              "key": "A",
+              "text": "9 cm2"
+            },
+            {
+              "key": "B",
+              "text": "16 cm2"
+            },
+            {
+              "key": "C",
+              "text": "25 cm2"
+            },
+            {
+              "key": "D",
+              "text": "64 cm2"
+            },
+            {
+              "key": "E",
+              "text": "81 cm2"
+            }
+          ],
+          "correct": "C",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 31,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "The timetable for buses between the towns of Oldville and Newtown is shown below.\n\nOldville to Newtown\nNewtown to Oldville\ndepart 07:55\narrive 09:05\ndepart 07:15\narrive 08:20\ndepart 10:20\narrive 11:25\ndepart 09:55\narrive 11:05\ndepart 15:35\narrive 16:45\ndepart 13:05\narrive 14:15\ndepart 18:05\narrive 19:00\ndepart 17:30\narrive 18:30\n\nSun-mi catches the second bus of the day from Newtown to Oldville.\n\nShe returns to Newtown on the next bus.\n\nHow long does she spend away from Newtown?",
+          "options": [
+            {
+              "key": "A",
+              "text": "1 hour 30 minutes"
+            },
+            {
+              "key": "B",
+              "text": "3 hours 55 minutes"
+            },
+            {
+              "key": "C",
+              "text": "4 hours 20 minutes"
+            },
+            {
+              "key": "D",
+              "text": "6 hours 50 minutes"
+            },
+            {
+              "key": "E",
+              "text": "7 hours 10 minutes"
+            }
+          ],
+          "correct": "D",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 34,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "The numbers 4 and 40 have highest common factor 4 and lowest common multiple 40.",
+          "options": [
+            {
+              "key": "A",
+              "text": "second pair of numbers also has highest common factor 4 and lowest common"
+            },
+            {
+              "key": "B",
+              "text": "14"
+            },
+            {
+              "key": "C",
+              "text": "24"
+            },
+            {
+              "key": "D",
+              "text": "28"
+            },
+            {
+              "key": "E",
+              "text": "48"
+            }
+          ],
+          "correct": "D",
+          "promptBullets": [],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/newcollege/nc_2021_SHSPT-Maths-questions.pdf",
+      "answerPdf": "papers/newcollege/nc_2021_SHSPT-Maths-answers.pdf",
+      "warnings": []
+    },
+    {
+      "id": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "title": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "source": "newcollege",
+      "minutes": 40,
+      "expectedQuestions": 35,
+      "questionCount": 17,
+      "answeredCount": 16,
+      "completeness": 0.486,
+      "playable": true,
+      "recommended": true,
+      "passages": [],
+      "questions": [
+        {
+          "number": 3,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "She sold five more lemon drinks than orange drinks.",
+          "options": [
+            {
+              "key": "A",
+              "text": "statement 1 only"
+            },
+            {
+              "key": "B",
+              "text": "statement 2 only"
+            },
+            {
+              "key": "C",
+              "text": "statement 3 only"
+            },
+            {
+              "key": "D",
+              "text": "statements 1 and 2 only"
+            },
+            {
+              "key": "E",
+              "text": "statements 2 and 3 only"
+            }
+          ],
+          "correct": "C",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 5,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Three packages are weighed together. Their total mass is shown on the scale.\n\nPackage 1 has a mass of 850 g.\nPackage 2 has a mass of 225 g.\n\nWhat is the mass of package 3?",
+          "options": [
+            {
+              "key": "A",
+              "text": "975 g"
+            },
+            {
+              "key": "B",
+              "text": "1175 g"
+            },
+            {
+              "key": "C",
+              "text": "1425 g"
+            },
+            {
+              "key": "D",
+              "text": "1525 g"
+            },
+            {
+              "key": "E",
+              "text": "2425 g"
+            }
+          ],
+          "correct": "E",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 6,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "There are a total of 160 children in six classes in a school.\n\nThe column graph shows the number of children in classes 1 to 5. The column for\nClass 6 has not been drawn.\n\nThere are 30 children in Class 3.\n\nnumber of\nchildren\nClass 1 Class 2 Class 3 Class 4 Class 5 Class 6\n\nHow many children are in Class 6?",
+          "options": [
+            {
+              "key": "A",
+              "text": "21"
+            },
+            {
+              "key": "B",
+              "text": "26"
+            },
+            {
+              "key": "C",
+              "text": "32"
+            },
+            {
+              "key": "D",
+              "text": "41"
+            },
+            {
+              "key": "E",
+              "text": "42"
+            }
+          ],
+          "correct": "C",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 8,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "The table shows the exact times taken by five racing drivers to complete one lap of a\nmotor racing circuit.\n\nname\ntime (seconds)\nSmith\n\n58.117\nCruz\n\n58.208\nAdams\n\n58.046\nBatra\n\n58.2\nEvans\n\n58.31\n\nWho were the fastest three drivers, in order, starting with the fastest?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Evans, Cruz, Batra"
+            },
+            {
+              "key": "B",
+              "text": "Evans, Cruz, Smith"
+            },
+            {
+              "key": "C",
+              "text": "Batra, Evans, Adams"
+            },
+            {
+              "key": "D",
+              "text": "Adams, Smith, Evans"
+            },
+            {
+              "key": "E",
+              "text": "Adams, Smith, Batra"
+            }
+          ],
+          "correct": "E",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 10,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Alex had $76.\n\nHe spent some of it in a shop.\n\nThen he gave half of what he had left to Charlie.\n\nCharlie spent a quarter of what Alex gave him on lunch.\n\nCharlie spent $9 on lunch.\n\nHow much did Alex spend in the shop?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$4"
+            },
+            {
+              "key": "B",
+              "text": "$12"
+            },
+            {
+              "key": "C",
+              "text": "$14"
+            },
+            {
+              "key": "D",
+              "text": "$36"
+            },
+            {
+              "key": "E",
+              "text": "$40"
+            }
+          ],
+          "correct": "A",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 14,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "The diagram shows a triangle inside a rectangle.\n\nThe area shaded grey is 84 cm2.\n\n11 cm\n12 cm\n\n [diagram not to scale]\n\nWhat is the area of the triangle?",
+          "options": [
+            {
+              "key": "A",
+              "text": "33 cm2"
+            },
+            {
+              "key": "B",
+              "text": "37 cm2"
+            },
+            {
+              "key": "C",
+              "text": "42 cm2"
+            },
+            {
+              "key": "D",
+              "text": "48 cm2"
+            },
+            {
+              "key": "E",
+              "text": "52 cm2"
+            }
+          ],
+          "correct": "D",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 15,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Seo-Jung has been recording rainfall for the last 5 weeks by collecting it in a container.\n\nThe container was empty at the start of week 1.\n\nSeo-Jung recorded the amount of rain in the container at the end of each week. No\nwater was lost during the 5 weeks.\n\nThe diagrams show what he recorded.\n\nmL\n200\n100\n400\n300\nmL\n200\n100\n400\n300\nmL\n200\n100\n400\n300\nmL\n200\n100\n400\n300\nmL\n200\n100\n400\n300\nend of\nweek 1\nend of\nweek 2\nend of\nweek 3\nend of\nweek 4\nend of\nweek 5\n\nDuring which two weeks was there exactly the same amount of rainfall?",
+          "options": [
+            {
+              "key": "A",
+              "text": "week 1 and week 2"
+            },
+            {
+              "key": "B",
+              "text": "week 1 and week 4"
+            },
+            {
+              "key": "C",
+              "text": "week 2 and week 3"
+            },
+            {
+              "key": "D",
+              "text": "week 2 and week 4"
+            },
+            {
+              "key": "E",
+              "text": "week 3 and week 5"
+            }
+          ],
+          "correct": "D",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 20,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Here is part of a menu from a café. The prices have been torn off.\n\nMENU\nMENU\nBurger\nChips\nDrinks\n$\n$\n$",
+          "options": [
+            {
+              "key": "A",
+              "text": "burger and a drink cost $6.00 in total."
+            },
+            {
+              "key": "B",
+              "text": "$4.75"
+            },
+            {
+              "key": "C",
+              "text": "$7.25"
+            },
+            {
+              "key": "D",
+              "text": "$7.75"
+            },
+            {
+              "key": "E",
+              "text": "$9.75"
+            }
+          ],
+          "correct": "C",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 22,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "I have an equal number of $1 and $2 coins.\n\nThe total value of my coins is $54.\n\n$1 coins weigh 9 grams and $2 coins weigh 7 grams.\n\nWhat is the total weight of all my coins?",
+          "options": [
+            {
+              "key": "A",
+              "text": "144 g"
+            },
+            {
+              "key": "B",
+              "text": "288 g"
+            },
+            {
+              "key": "C",
+              "text": "414 g"
+            },
+            {
+              "key": "D",
+              "text": "432 g"
+            },
+            {
+              "key": "E",
+              "text": "576 g"
+            }
+          ],
+          "correct": "B",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 23,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Two statues are 8 kilometres 23 metres apart.",
+          "options": [
+            {
+              "key": "A",
+              "text": "map-maker incorrectly labels the distance between the statues on a map. The"
+            },
+            {
+              "key": "B",
+              "text": "14 km 985 m"
+            },
+            {
+              "key": "C",
+              "text": "15 km 15 m"
+            },
+            {
+              "key": "D",
+              "text": "15 km 85 m"
+            },
+            {
+              "key": "E",
+              "text": "15 km 985 m"
+            }
+          ],
+          "correct": "B",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 24,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Jedda draws a map of an island showing areas where there are only hills, only bush,\nor both. These three areas cover the whole island.\n\nbush (no hills)\nhills and bush\nhills (no bush)\n\nThe total area of the island is 164 km2.\n\nThe total area where there are hills is 132 km2.\n\nThe total area where there is bush is 80 km2.\n\nWhat area of the island has both hills and bush?",
+          "options": [
+            {
+              "key": "A",
+              "text": "24 km2"
+            },
+            {
+              "key": "B",
+              "text": "32 km2"
+            },
+            {
+              "key": "C",
+              "text": "48 km2"
+            },
+            {
+              "key": "D",
+              "text": "52 km2"
+            },
+            {
+              "key": "E",
+              "text": "84 km2"
+            }
+          ],
+          "correct": "C",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 26,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Three planks of wood all have the same length. They are placed next to each other as\nshown.\n\n5 cm\n135 cm\n40 cm\n\n [diagram not to scale]\n\nWhat is the length of one plank of wood?",
+          "options": [
+            {
+              "key": "A",
+              "text": "45 cm"
+            },
+            {
+              "key": "B",
+              "text": "50 cm"
+            },
+            {
+              "key": "C",
+              "text": "60 cm"
+            },
+            {
+              "key": "D",
+              "text": "75 cm"
+            },
+            {
+              "key": "E",
+              "text": "85 cm"
+            }
+          ],
+          "correct": "C",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 29,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "This shape is a trapezium with two right angles:\n\n2 cm\n3 cm\n6 cm\n\n [diagram not to scale]\n\nAnna has a square piece of card with side length 24 cm.\n\nWhat is the greatest possible number of these trapeziums Anna can cut out from this\ncard?",
+          "options": [
+            {
+              "key": "A",
+              "text": "16"
+            },
+            {
+              "key": "B",
+              "text": "24"
+            },
+            {
+              "key": "C",
+              "text": "32"
+            },
+            {
+              "key": "D",
+              "text": "48"
+            },
+            {
+              "key": "E",
+              "text": "64"
+            }
+          ],
+          "correct": "D",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 30,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Jamal makes a number sequence. He chooses the 1st number in the sequence.\n\nThen he follows these two rules, one after the other, repeatedly:\n\n• Subtract 100 to get the next number in the sequence.\n\n• Add 10 to get the next number in the sequence.\n\nThe 6th number in the sequence is 8451.\n\nWhat is the 1st number in Jamal’s sequence?",
+          "options": [
+            {
+              "key": "A",
+              "text": "8171"
+            },
+            {
+              "key": "B",
+              "text": "8181"
+            },
+            {
+              "key": "C",
+              "text": "8711"
+            },
+            {
+              "key": "D",
+              "text": "8721"
+            },
+            {
+              "key": "E",
+              "text": "8731"
+            }
+          ],
+          "correct": "E",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 32,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "This shape is made from rectangles.\n\n14 cm\n16 cm\n3 cm\n2 cm\n1 cm\n3 cm\n5 cm\n1 cm\n\n [diagram not to scale]\n\nWhat is the perimeter of this shape?",
+          "options": [
+            {
+              "key": "A",
+              "text": "44 cm"
+            },
+            {
+              "key": "B",
+              "text": "52 cm"
+            },
+            {
+              "key": "C",
+              "text": "60 cm"
+            },
+            {
+              "key": "D",
+              "text": "64 cm"
+            },
+            {
+              "key": "E",
+              "text": "68 cm"
+            }
+          ],
+          "correct": "E",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 34,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Harry has a large, solid cube made from 64 small cubes:\n\nHe removes some small cubes. He now sees this view when he looks at any of the\nsix faces:\n\nHow many small cubes are in the object now?",
+          "options": [
+            {
+              "key": "A",
+              "text": "16"
+            },
+            {
+              "key": "B",
+              "text": "32"
+            },
+            {
+              "key": "C",
+              "text": "36"
+            },
+            {
+              "key": "D",
+              "text": "40"
+            },
+            {
+              "key": "E",
+              "text": "72"
+            }
+          ],
+          "correct": "B",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 36,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "She wants to use these pictures only in her picture graph:\n\nwhole flower\nhalf flower\n\nShe will not draw any other fractions of a flower.\n\nWhich of these keys can she use to represent the data correctly?\n\nkey X:\nrepresents 4 bunches\n\nkey Y:\nrepresents 8 bunches\n\nkey Z:\nrepresents 12 bunches",
+          "options": [
+            {
+              "key": "A",
+              "text": "none of them"
+            },
+            {
+              "key": "B",
+              "text": "key X or key Y only"
+            },
+            {
+              "key": "C",
+              "text": "key X or key Z only"
+            },
+            {
+              "key": "D",
+              "text": "key Y or key Z only"
+            },
+            {
+              "key": "E",
+              "text": "key X, Y or Z"
+            }
+          ],
+          "correct": null,
+          "promptBullets": [],
+          "hasAnswer": false
+        }
+      ],
+      "questionPdf": "papers/newcollege/nc_2022_SHSPT_MATHEMATICAL_REASONING_QUESTION_PAPER.pdf",
+      "answerPdf": "papers/newcollege/nc_2022_SHSPT_MATHEMATICAL_REASONING_Answer.pdf",
+      "warnings": []
+    },
+    {
+      "id": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "title": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "source": "newcollege",
+      "minutes": 40,
+      "expectedQuestions": 35,
+      "questionCount": 17,
+      "answeredCount": 17,
+      "completeness": 0.486,
+      "playable": true,
+      "recommended": true,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Ngali has a music playlist.\n\nThe first song is 4 minutes long.\n\nThere are 3 more songs, and each song is 30 seconds shorter than the song before it.\n\nHow long is Ngali’s playlist?",
+          "options": [
+            {
+              "key": "A",
+              "text": "13 minutes"
+            },
+            {
+              "key": "B",
+              "text": "14 minutes 30 seconds"
+            },
+            {
+              "key": "C",
+              "text": "16 minutes"
+            },
+            {
+              "key": "D",
+              "text": "17 minutes 30 seconds"
+            },
+            {
+              "key": "E",
+              "text": "19 minutes"
+            }
+          ],
+          "correct": "A",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 2,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Kevin has some identical cubes and some identical spheres.\n\nThe weight of 8 cubes is the same as the weight of 5 spheres.\n\nOne sphere weighs 560 g.\n\nHow much does one cube weigh?",
+          "options": [
+            {
+              "key": "A",
+              "text": "260 g"
+            },
+            {
+              "key": "B",
+              "text": "350 g"
+            },
+            {
+              "key": "C",
+              "text": "557 g"
+            },
+            {
+              "key": "D",
+              "text": "896 g"
+            },
+            {
+              "key": "E",
+              "text": "2800 g"
+            }
+          ],
+          "correct": "B",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 3,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "In the circle, the angles labelled p and q are both right angles.\n\nThe grey part is 1\n8 of the whole circle.\n\np\nq\n1/8\n\nWhat fraction of the circle is shaded black?",
+          "options": [
+            {
+              "key": "A",
+              "text": "1/4"
+            },
+            {
+              "key": "B",
+              "text": "2/7"
+            },
+            {
+              "key": "C",
+              "text": "1/3"
+            },
+            {
+              "key": "D",
+              "text": "3/8"
+            },
+            {
+              "key": "E",
+              "text": "2/5"
+            }
+          ],
+          "correct": "D",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 4,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Rob had a large bag of lollies to share with his friends, Hamid and Vera.\n\nRob gave Hamid half of the lollies from the bag.\n\nThen he gave Vera 20 of the lollies that were left in the bag.\n\nThen there were 24 lollies left in the bag, and Rob kept these for himself.\n\nHow many lollies were in the bag at the start?",
+          "options": [
+            {
+              "key": "A",
+              "text": "40"
+            },
+            {
+              "key": "B",
+              "text": "44"
+            },
+            {
+              "key": "C",
+              "text": "48"
+            },
+            {
+              "key": "D",
+              "text": "64"
+            },
+            {
+              "key": "E",
+              "text": "88"
+            }
+          ],
+          "correct": "E",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 6,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Sydney’s time zone is 14 hours ahead of New York’s time zone.\n\nWhen it is 9:30 am on 19th January in Sydney, what is the time and date in New York?",
+          "options": [
+            {
+              "key": "A",
+              "text": "7:30 pm on 18th January"
+            },
+            {
+              "key": "B",
+              "text": "8:30 pm on 18th January"
+            },
+            {
+              "key": "C",
+              "text": "11:30 pm on 18th January"
+            },
+            {
+              "key": "D",
+              "text": "7:30 pm on 19th January"
+            },
+            {
+              "key": "E",
+              "text": "11:30 pm on 19th January"
+            }
+          ],
+          "correct": "A",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 9,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Jacinta has a 2-digit number.\n\nAmber has a 2-digit number.\n\nJacinta multiplies their numbers together.\n\nWhat is/are the possible number(s) of digits in the result?",
+          "options": [
+            {
+              "key": "A",
+              "text": "3 only"
+            },
+            {
+              "key": "B",
+              "text": "5 only"
+            },
+            {
+              "key": "C",
+              "text": "3 and 4 only"
+            },
+            {
+              "key": "D",
+              "text": "4 and 5 only"
+            },
+            {
+              "key": "E",
+              "text": "3, 4 and 5 only"
+            }
+          ],
+          "correct": "C",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 11,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Kirra draws a rhombus and a rectangle. They both have the same perimeter.\n\nAll of the sides of the rhombus are 6 cm long.\n\nTwo sides of the rectangle are 4 cm long.\n\nWhat is the area of the rectangle?",
+          "options": [
+            {
+              "key": "A",
+              "text": "16 cm2"
+            },
+            {
+              "key": "B",
+              "text": "24 cm2"
+            },
+            {
+              "key": "C",
+              "text": "32 cm2"
+            },
+            {
+              "key": "D",
+              "text": "64 cm2"
+            },
+            {
+              "key": "E",
+              "text": "128 cm2"
+            }
+          ],
+          "correct": "C",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 12,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Drew works at an airport.\n\nThe graph shows the number of planes on the ground at the airport from 0400 to 1600.\n\ntime\nnumber\nof\nplanes\n3/4\n5/6\n7/8\n9\n10\n11\n12\n13\n14\n15\n0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600\n\nDrew started work at 0500.\n\nHow long after Drew started work was the number of planes on the ground double the\nnumber at 0500?",
+          "options": [
+            {
+              "key": "A",
+              "text": "2 hours"
+            },
+            {
+              "key": "B",
+              "text": "9 hours"
+            },
+            {
+              "key": "C",
+              "text": "10 hours"
+            },
+            {
+              "key": "D",
+              "text": "11 hours"
+            },
+            {
+              "key": "E",
+              "text": "14 hours"
+            }
+          ],
+          "correct": "B",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 14,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "On a map there is a rectangular field. The measurements of the field on the map are\nshown here:\n\n10 cm\n4 cm\n\n [diagram not to scale]\n\n2 centimetres on the map represents 5 metres in real life.\n\nWhat is the area of the field in real life?",
+          "options": [
+            {
+              "key": "A",
+              "text": "40 m2"
+            },
+            {
+              "key": "B",
+              "text": "70 m2"
+            },
+            {
+              "key": "C",
+              "text": "100 m2"
+            },
+            {
+              "key": "D",
+              "text": "200 m2"
+            },
+            {
+              "key": "E",
+              "text": "250 m2"
+            }
+          ],
+          "correct": "E",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 18,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Here is a bird feeder that is full of seeds.\n\nfull\n\nIt contains exactly the right amount of seeds to feed one magpie every day for 3 days,\nor to feed one wattlebird every day for 6 days.\n\nWhat is the largest number of days that it can feed one magpie and one wattlebird?",
+          "options": [
+            {
+              "key": "A",
+              "text": "1.5 days"
+            },
+            {
+              "key": "B",
+              "text": "2 days"
+            },
+            {
+              "key": "C",
+              "text": "3 days"
+            },
+            {
+              "key": "D",
+              "text": "4.5 days"
+            },
+            {
+              "key": "E",
+              "text": "9 days"
+            }
+          ],
+          "correct": "B",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 19,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Yasmine has four weights: half a kilogram, 800 grams, 250 grams and 400 grams.\n\nWhich of the following totals can be made by adding together two or more of her\nweights?\n\n1\n1450 grams\n\n2\n1100 grams\n\n3\nthree quarters of a kilogram",
+          "options": [
+            {
+              "key": "A",
+              "text": "3 only"
+            },
+            {
+              "key": "B",
+              "text": "1 and 2 only"
+            },
+            {
+              "key": "C",
+              "text": "1 and 3 only"
+            },
+            {
+              "key": "D",
+              "text": "2 and 3 only"
+            },
+            {
+              "key": "E",
+              "text": "1, 2 and 3"
+            }
+          ],
+          "correct": "C",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 20,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "In the grid below, Mike is standing in the square labelled M. Nina is standing in the\nsquare labelled N.\n\nM\n6/5\n4/3\n2/1",
+          "options": [
+            {
+              "key": "A",
+              "text": "B C D E"
+            },
+            {
+              "key": "B",
+              "text": "any square in row 3"
+            },
+            {
+              "key": "C",
+              "text": "any square in column D"
+            },
+            {
+              "key": "D",
+              "text": "any square on the line from A6 to F1"
+            },
+            {
+              "key": "E",
+              "text": "any square on the line from B1 to G6"
+            }
+          ],
+          "correct": "E",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 21,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Fraser has eight identical rectangles, each with length 7 cm and width 2 cm, as shown.\n\n2 cm\n7 cm\n\nHe makes the design below by joining the rectangles.\n\n[diagram not to scale]\n\nWhat is the area of the shaded region created in the middle of the design?",
+          "options": [
+            {
+              "key": "A",
+              "text": "75 cm2"
+            },
+            {
+              "key": "B",
+              "text": "95 cm2"
+            },
+            {
+              "key": "C",
+              "text": "105 cm2"
+            },
+            {
+              "key": "D",
+              "text": "117 cm2"
+            },
+            {
+              "key": "E",
+              "text": "147 cm2"
+            }
+          ],
+          "correct": "B",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 22,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "This large solid cube is made from identical smaller cubes.",
+          "options": [
+            {
+              "key": "A",
+              "text": "thick grey line is painted along every edge."
+            },
+            {
+              "key": "B",
+              "text": "36"
+            },
+            {
+              "key": "C",
+              "text": "40"
+            },
+            {
+              "key": "D",
+              "text": "48"
+            },
+            {
+              "key": "E",
+              "text": "52"
+            }
+          ],
+          "correct": "A",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 24,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "These two solid rectangular prisms are made from the same material.\n\n10 cm\n8 cm\n5 cm\n20 cm\n20 cm\n40 cm\n\n[diagram not to scale]\n\nThe smaller rectangular prism weighs 600 g.\n\nHow much does the larger rectangular prism weigh, in kilograms?",
+          "options": [
+            {
+              "key": "A",
+              "text": "2.4 kg"
+            },
+            {
+              "key": "B",
+              "text": "15 kg"
+            },
+            {
+              "key": "C",
+              "text": "24 kg"
+            },
+            {
+              "key": "D",
+              "text": "15 000 kg"
+            },
+            {
+              "key": "E",
+              "text": "24 000 kg"
+            }
+          ],
+          "correct": "C",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 30,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "In the number sentences below, the square, triangle and circle each represent a\ndifferent whole number.\n\n × 4 =\n\n + 24 =\n\n +\n =\n\nWhat number does the square represent?",
+          "options": [
+            {
+              "key": "A",
+              "text": "24"
+            },
+            {
+              "key": "B",
+              "text": "28"
+            },
+            {
+              "key": "C",
+              "text": "30"
+            },
+            {
+              "key": "D",
+              "text": "36"
+            },
+            {
+              "key": "E",
+              "text": "40"
+            }
+          ],
+          "correct": "E",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 31,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Mandra has a 3D object.\n\nShe shines a light on the object from different directions, making different shadows.\n\nWhich of the following objects can Mandra use to make a rectangular shadow?\n\nobject 2: triangular prism\nobject 3: pentagonal prism\nobject 1: cylinder",
+          "options": [
+            {
+              "key": "A",
+              "text": "object 2 only"
+            },
+            {
+              "key": "B",
+              "text": "objects 1 and 2 only"
+            },
+            {
+              "key": "C",
+              "text": "objects 1 and 3 only"
+            },
+            {
+              "key": "D",
+              "text": "objects 2 and 3 only"
+            },
+            {
+              "key": "E",
+              "text": "objects 1, 2 and 3"
+            }
+          ],
+          "correct": "E",
+          "promptBullets": [],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/newcollege/nc_2023_SHSPT_Maths-practice-test-questions.pdf",
+      "answerPdf": "papers/newcollege/nc_2023_SHSPT_Maths-practice-test-answers.pdf",
+      "warnings": []
+    },
+    {
+      "id": "2022-2022-sample-test-mathematical-reasoning-newcollege-nc-2022-spht-maths-sampl",
+      "title": "2022 Sample Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Sample Test",
+      "source": "newcollege",
+      "minutes": 40,
+      "expectedQuestions": 35,
+      "questionCount": 5,
+      "answeredCount": 5,
+      "completeness": 0.143,
+      "playable": true,
+      "recommended": false,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "The temperature was 10°C at four different times.\n2/3\nThe temperature change between 1 hour and 3 hours was greater than the\ntemperature change between 4 hours and 6 hours.\nThe lowest temperature was 5°C.",
+          "options": [
+            {
+              "key": "A",
+              "text": "none of the statements"
+            },
+            {
+              "key": "B",
+              "text": "statements 1 and 2 only"
+            },
+            {
+              "key": "C",
+              "text": "statements 1 and 3 only"
+            },
+            {
+              "key": "D",
+              "text": "statements 2 and 3 only"
+            },
+            {
+              "key": "E",
+              "text": "statements 1, 2 and 3\n19"
+            }
+          ],
+          "correct": "E",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 2,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Sandy’s watch reads 1850.\nWhat is the time one quarter of an hour later, in 12-hour format?",
+          "options": [
+            {
+              "key": "A",
+              "text": "6:35 am"
+            },
+            {
+              "key": "B",
+              "text": "7:05 am"
+            },
+            {
+              "key": "C",
+              "text": "6:35 pm"
+            },
+            {
+              "key": "D",
+              "text": "6:45 pm"
+            },
+            {
+              "key": "E",
+              "text": "7:05 pm\nJack divides a white wall into equal sections.\nHe paints some sections purple, as shown."
+            }
+          ],
+          "correct": "A",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 3,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Vinayak wants to help, by adding one more square to each net to make a correct cube net.\nHowever, he is not sure if this is possible for all of the drawings.\nWhich of the three drawings can be made into complete cube nets by adding one square?",
+          "options": [
+            {
+              "key": "A",
+              "text": "drawing 1 only"
+            },
+            {
+              "key": "B",
+              "text": "drawing 2 only"
+            },
+            {
+              "key": "C",
+              "text": "drawing 3 only"
+            },
+            {
+              "key": "D",
+              "text": "drawings 1 and 3 only"
+            },
+            {
+              "key": "E",
+              "text": "drawings 1, 2 and 3\n26"
+            }
+          ],
+          "correct": "A",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 4,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Rana needs 650 grams of cooking sauce.\nShe places a glass jar of cooking sauce on a scale.\n0\n200\n400\n600\n800\n1000\ng\n100\n300\n500\n700\n900\nThe glass jar weighs 330 g when empty.\nHow much more cooking sauce does Rana need?",
+          "options": [
+            {
+              "key": "A",
+              "text": "100 g"
+            },
+            {
+              "key": "B",
+              "text": "130 g"
+            },
+            {
+              "key": "C",
+              "text": "200 g"
+            },
+            {
+              "key": "D",
+              "text": "230 g"
+            },
+            {
+              "key": "E",
+              "text": "430 g\n4"
+            }
+          ],
+          "correct": "D",
+          "promptBullets": [],
+          "hasAnswer": true
+        },
+        {
+          "number": 27,
+          "passageRefs": [],
+          "responseType": "mcq",
+          "stem": "Kylie lives in Las Vegas and she visits her cousin Mike, who lives in Sydney.\nKylie leaves Las Vegas on Friday at 1300 local time on a 6-hour flight to New York.\nShe spends 24 hours in New York.\nShe then catches a 20-hour flight to Sydney.\nThe time in Las Vegas is 17 hours behind the time in Sydney.\nWhat time is it in Sydney when Kylie arrives?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Monday at 0800"
+            },
+            {
+              "key": "B",
+              "text": "Wednesday at 1100"
+            },
+            {
+              "key": "C",
+              "text": "Saturday at 2200"
+            },
+            {
+              "key": "D",
+              "text": "Sunday at 1500"
+            },
+            {
+              "key": "E",
+              "text": "Sunday at 2300\n22"
+            }
+          ],
+          "correct": "A",
+          "promptBullets": [],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/newcollege/nc_2022-SPHT_maths-sample-test-questions.pdf",
+      "answerPdf": "papers/newcollege/nc_2022-SPHT_maths-sample-test-answers.pdf",
+      "warnings": []
+    }
+  ],
+  "questionBank": [
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Four of the numbers on the cards have the same remainder when divided by 5:\n\n33\n43\n68\n83\n119\n\nWhich number has a different remainder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "33"
+        },
+        {
+          "key": "B",
+          "text": "43"
+        },
+        {
+          "key": "C",
+          "text": "68"
+        },
+        {
+          "key": "D",
+          "text": "83"
+        },
+        {
+          "key": "E",
+          "text": "119"
+        }
+      ],
+      "correct": "E",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 2,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "What is the value of the missing number ▲ in this number pattern?\n\n2, 6, ▲, 54, 162, …",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "12"
+        },
+        {
+          "key": "C",
+          "text": "18"
+        },
+        {
+          "key": "D",
+          "text": "30"
+        },
+        {
+          "key": "E",
+          "text": "50"
+        }
+      ],
+      "correct": "C",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 3,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Box 1 is at grid reference B2, box 2 is at C3, and so on.\n\nIf the pattern continues like this, what will be the grid reference of box 40?",
+      "options": [
+        {
+          "key": "A",
+          "text": "B41"
+        },
+        {
+          "key": "B",
+          "text": "B50"
+        },
+        {
+          "key": "C",
+          "text": "B121"
+        },
+        {
+          "key": "D",
+          "text": "C39"
+        },
+        {
+          "key": "E",
+          "text": "C60"
+        }
+      ],
+      "correct": "A",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 4,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Jason has 3 different pairs of trousers and 4 different shirts.\n\nEmily has 2 different pairs of trousers and 5 different shirts.\n\nEach person can make an outfit from their own clothes by choosing 1 pair of trousers\nand 1 shirt.\n\nWho has a larger number of possible outfits, and by how many?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Jason has 2 more outfits than Emily."
+        },
+        {
+          "key": "B",
+          "text": "Jason has 1 more outfit than Emily."
+        },
+        {
+          "key": "C",
+          "text": "They have the same number of outfits."
+        },
+        {
+          "key": "D",
+          "text": "Emily has 1 more outfit than Jason."
+        },
+        {
+          "key": "E",
+          "text": "Emily has 2 more outfits than Jason."
+        }
+      ],
+      "correct": "A",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 5,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Three containers have different amounts of water inside.\n\nContainer X has 1 litre 75 millilitres of water.\n\nContainer Y has 3 litres 45 millilitres of water.\n\nContainer Z has 1250 millilitres of water.\n\nIf the water from all three containers is combined, what will its volume be, in litres (L)\nand millilitres (mL)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 L 37 mL"
+        },
+        {
+          "key": "B",
+          "text": "5 L 370 mL"
+        },
+        {
+          "key": "C",
+          "text": "6 L 45 mL"
+        },
+        {
+          "key": "D",
+          "text": "6 L 450 mL"
+        },
+        {
+          "key": "E",
+          "text": "17 L 70 mL"
+        }
+      ],
+      "correct": "B",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 6,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Here are some number cards:\n\n0.5\n0.6\n0.7\n0.65\n0.75\n0.56\n0.76\n0.57\n0.67\n\nMia arranges all the cards in a line, so that the numbers increase from left to right.\n\nWhich number is on the middle card?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.6"
+        },
+        {
+          "key": "B",
+          "text": "0.65"
+        },
+        {
+          "key": "C",
+          "text": "0.75"
+        },
+        {
+          "key": "D",
+          "text": "0.56"
+        },
+        {
+          "key": "E",
+          "text": "0.57"
+        }
+      ],
+      "correct": "B",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 8,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Bryony draws two right-angled isosceles triangles on the playground to make a\nparallelogram.\n\nShe labels the corners J, K, L and M.\n\nnorth\nJ\nK\nL\nM\n\nThe direction of north is shown.\n\nBryony walks along the sides of the parallelogram, from J to K to L to M.\n\nStarting from J, which order of compass directions does she follow?",
+      "options": [
+        {
+          "key": "A",
+          "text": "SE, then E, then NW"
+        },
+        {
+          "key": "B",
+          "text": "SE, then W, then NW"
+        },
+        {
+          "key": "C",
+          "text": "S, then E, then N, then W"
+        },
+        {
+          "key": "D",
+          "text": "SW, then E, then NE"
+        },
+        {
+          "key": "E",
+          "text": "SW, then W, then NE"
+        }
+      ],
+      "correct": "A",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 11,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "The perimeter of a square is 32 cm.\n\nperimeter = 32 cm\n\nThe square is cut into four smaller squares, as shown in the diagram.\n\nWhat is the perimeter of one of these pieces?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8 cm"
+        },
+        {
+          "key": "B",
+          "text": "12 cm"
+        },
+        {
+          "key": "C",
+          "text": "16 cm"
+        },
+        {
+          "key": "D",
+          "text": "20 cm"
+        },
+        {
+          "key": "E",
+          "text": "24 cm"
+        }
+      ],
+      "correct": "C",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 13,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "The time in Auckland is 13 hours ahead of the time in London.\n\nThe time in Calgary is 7 hours behind the time in London.\n\nWhen it is 5 pm in Calgary, what time is it in Auckland?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 am"
+        },
+        {
+          "key": "B",
+          "text": "11 am"
+        },
+        {
+          "key": "C",
+          "text": "1 pm"
+        },
+        {
+          "key": "D",
+          "text": "9 pm"
+        },
+        {
+          "key": "E",
+          "text": "11 pm"
+        }
+      ],
+      "correct": "C",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 14,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Four old units for capacity are: gill, pint, quart and peck.\n\n• 4 gills equal 1 pint.\n• 1 pint equals half a quart.\n• 8 quarts equal 1 peck.\n\nHow many gills equal 1 peck?",
+      "options": [
+        {
+          "key": "A",
+          "text": "13"
+        },
+        {
+          "key": "B",
+          "text": "14"
+        },
+        {
+          "key": "C",
+          "text": "16"
+        },
+        {
+          "key": "D",
+          "text": "32"
+        },
+        {
+          "key": "E",
+          "text": "64"
+        }
+      ],
+      "correct": "E",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 15,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "In the prices below, each shape represents a missing digit.\n\n$70.2\n$68.5\n\nWhat is the greatest possible difference between the prices?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$1.61"
+        },
+        {
+          "key": "B",
+          "text": "$1.79"
+        },
+        {
+          "key": "C",
+          "text": "$2.21"
+        },
+        {
+          "key": "D",
+          "text": "$2.39"
+        },
+        {
+          "key": "E",
+          "text": "$2.71"
+        }
+      ],
+      "correct": "B",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 20,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "In a shop, there are three ways to buy mandarins, as shown.\n\n1 mandarin\nfor $0.50\nbag of 10 mandarins\nfor $4.50\nbag of 30 mandarins\nfor $13.00\nbag of 10 mandarins\nf 10 mand\nf 10 m\nb\nf 30\n\nJack has $25. What is the largest number of mandarins he can buy?",
+      "options": [
+        {
+          "key": "A",
+          "text": "50"
+        },
+        {
+          "key": "B",
+          "text": "54"
+        },
+        {
+          "key": "C",
+          "text": "55"
+        },
+        {
+          "key": "D",
+          "text": "56"
+        },
+        {
+          "key": "E",
+          "text": "60"
+        }
+      ],
+      "correct": "D",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 21,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "This graph shows what fraction of the air is made of different types of gas, at different\nheights above sea level.\n\n0\n100\n200\n300\n400\n500\n600\nheight above sea level (km)\n0/1\n2/1\nfraction of air\nmade of gas\nNitrogen\nOxygen\nHelium\n\nWhich of these statements is/are correct?\n\nX\nAt any height above sea level, the fraction of nitrogen is higher than the\nfraction of helium.\n\nY\nThere is more than one height at which the fractions of oxygen and helium are\nthe same.\n\nZ\nAt 200 km above sea level, the air is about half nitrogen and half oxygen.",
+      "options": [
+        {
+          "key": "A",
+          "text": "none of them"
+        },
+        {
+          "key": "B",
+          "text": "statement X only"
+        },
+        {
+          "key": "C",
+          "text": "statement Y only"
+        },
+        {
+          "key": "D",
+          "text": "statement Z only"
+        },
+        {
+          "key": "E",
+          "text": "statements X, Y and Z"
+        }
+      ],
+      "correct": "D",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 24,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Which of these numbers is closest to 10\n7 ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.072"
+        },
+        {
+          "key": "B",
+          "text": "0.705"
+        },
+        {
+          "key": "C",
+          "text": "0.68"
+        },
+        {
+          "key": "D",
+          "text": "0.069"
+        },
+        {
+          "key": "E",
+          "text": "0.73"
+        }
+      ],
+      "correct": "B",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 25,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Five friends live in houses on a long straight road in this order:\n\n Felipe, Gina, Heng, Jood, Kerry\n\nFelipe lives 400 m from Heng and 850 m from Kerry.\n\nGina lives three times as far from Felipe as she lives from Heng.\n\nGina and Jood live equal distances from Heng.\n\nHow far does Jood live from Kerry?",
+      "options": [
+        {
+          "key": "A",
+          "text": "150 m"
+        },
+        {
+          "key": "B",
+          "text": "250 m"
+        },
+        {
+          "key": "C",
+          "text": "350 m"
+        },
+        {
+          "key": "D",
+          "text": "650 m"
+        },
+        {
+          "key": "E",
+          "text": "750 m"
+        }
+      ],
+      "correct": "C",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 26,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Rachel, Steve and Taran are three athletes running laps of a long track. They all start\non the start line at the same time.\n\nSTART\n\nRachel runs a lap every 8 minutes.\n\nSteve runs a lap every 10 minutes.\n\nTaran runs a lap every 12 minutes.\n\nAfter how many minutes are the three athletes next on the start line at the same time?",
+      "options": [
+        {
+          "key": "A",
+          "text": "60"
+        },
+        {
+          "key": "B",
+          "text": "72"
+        },
+        {
+          "key": "C",
+          "text": "80"
+        },
+        {
+          "key": "D",
+          "text": "96"
+        },
+        {
+          "key": "E",
+          "text": "120"
+        }
+      ],
+      "correct": "E",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 28,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "When this can of sweetcorn is half full, the sweetcorn and can together have a mass of\n120 grams.\n\nWhen the can of sweetcorn is one-quarter full, the sweetcorn and can together have a\nmass of 65 g.\n\nWhat is the mass of the can and sweetcorn together when the can is three-quarters\nfull?",
+      "options": [
+        {
+          "key": "A",
+          "text": "165 g"
+        },
+        {
+          "key": "B",
+          "text": "175 g"
+        },
+        {
+          "key": "C",
+          "text": "180 g"
+        },
+        {
+          "key": "D",
+          "text": "185 g"
+        },
+        {
+          "key": "E",
+          "text": "195 g"
+        }
+      ],
+      "correct": "B",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 30,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "The design below is made of identical white rectangles and a shaded square:\n\n [diagram not to scale]\n\nThe width of each rectangle is 4 cm.\n\nThe area of each rectangle is 36 cm2.\n\nWhat is the area of the shaded square?",
+      "options": [
+        {
+          "key": "A",
+          "text": "9 cm2"
+        },
+        {
+          "key": "B",
+          "text": "16 cm2"
+        },
+        {
+          "key": "C",
+          "text": "25 cm2"
+        },
+        {
+          "key": "D",
+          "text": "64 cm2"
+        },
+        {
+          "key": "E",
+          "text": "81 cm2"
+        }
+      ],
+      "correct": "C",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 31,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "The timetable for buses between the towns of Oldville and Newtown is shown below.\n\nOldville to Newtown\nNewtown to Oldville\ndepart 07:55\narrive 09:05\ndepart 07:15\narrive 08:20\ndepart 10:20\narrive 11:25\ndepart 09:55\narrive 11:05\ndepart 15:35\narrive 16:45\ndepart 13:05\narrive 14:15\ndepart 18:05\narrive 19:00\ndepart 17:30\narrive 18:30\n\nSun-mi catches the second bus of the day from Newtown to Oldville.\n\nShe returns to Newtown on the next bus.\n\nHow long does she spend away from Newtown?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 hour 30 minutes"
+        },
+        {
+          "key": "B",
+          "text": "3 hours 55 minutes"
+        },
+        {
+          "key": "C",
+          "text": "4 hours 20 minutes"
+        },
+        {
+          "key": "D",
+          "text": "6 hours 50 minutes"
+        },
+        {
+          "key": "E",
+          "text": "7 hours 10 minutes"
+        }
+      ],
+      "correct": "D",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2021-2021-placement-test-mathematical-rea",
+      "testId": "2021-2021-placement-test-mathematical-reasoning-newcollege-nc-2021-shspt-maths-q",
+      "testTitle": "2021 Placement Test — Mathematical Reasoning Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 34,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "The numbers 4 and 40 have highest common factor 4 and lowest common multiple 40.",
+      "options": [
+        {
+          "key": "A",
+          "text": "second pair of numbers also has highest common factor 4 and lowest common"
+        },
+        {
+          "key": "B",
+          "text": "14"
+        },
+        {
+          "key": "C",
+          "text": "24"
+        },
+        {
+          "key": "D",
+          "text": "28"
+        },
+        {
+          "key": "E",
+          "text": "48"
+        }
+      ],
+      "correct": "D",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 3,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "She sold five more lemon drinks than orange drinks.",
+      "options": [
+        {
+          "key": "A",
+          "text": "statement 1 only"
+        },
+        {
+          "key": "B",
+          "text": "statement 2 only"
+        },
+        {
+          "key": "C",
+          "text": "statement 3 only"
+        },
+        {
+          "key": "D",
+          "text": "statements 1 and 2 only"
+        },
+        {
+          "key": "E",
+          "text": "statements 2 and 3 only"
+        }
+      ],
+      "correct": "C",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 5,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Three packages are weighed together. Their total mass is shown on the scale.\n\nPackage 1 has a mass of 850 g.\nPackage 2 has a mass of 225 g.\n\nWhat is the mass of package 3?",
+      "options": [
+        {
+          "key": "A",
+          "text": "975 g"
+        },
+        {
+          "key": "B",
+          "text": "1175 g"
+        },
+        {
+          "key": "C",
+          "text": "1425 g"
+        },
+        {
+          "key": "D",
+          "text": "1525 g"
+        },
+        {
+          "key": "E",
+          "text": "2425 g"
+        }
+      ],
+      "correct": "E",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 6,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "There are a total of 160 children in six classes in a school.\n\nThe column graph shows the number of children in classes 1 to 5. The column for\nClass 6 has not been drawn.\n\nThere are 30 children in Class 3.\n\nnumber of\nchildren\nClass 1 Class 2 Class 3 Class 4 Class 5 Class 6\n\nHow many children are in Class 6?",
+      "options": [
+        {
+          "key": "A",
+          "text": "21"
+        },
+        {
+          "key": "B",
+          "text": "26"
+        },
+        {
+          "key": "C",
+          "text": "32"
+        },
+        {
+          "key": "D",
+          "text": "41"
+        },
+        {
+          "key": "E",
+          "text": "42"
+        }
+      ],
+      "correct": "C",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 8,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "The table shows the exact times taken by five racing drivers to complete one lap of a\nmotor racing circuit.\n\nname\ntime (seconds)\nSmith\n\n58.117\nCruz\n\n58.208\nAdams\n\n58.046\nBatra\n\n58.2\nEvans\n\n58.31\n\nWho were the fastest three drivers, in order, starting with the fastest?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Evans, Cruz, Batra"
+        },
+        {
+          "key": "B",
+          "text": "Evans, Cruz, Smith"
+        },
+        {
+          "key": "C",
+          "text": "Batra, Evans, Adams"
+        },
+        {
+          "key": "D",
+          "text": "Adams, Smith, Evans"
+        },
+        {
+          "key": "E",
+          "text": "Adams, Smith, Batra"
+        }
+      ],
+      "correct": "E",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 10,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Alex had $76.\n\nHe spent some of it in a shop.\n\nThen he gave half of what he had left to Charlie.\n\nCharlie spent a quarter of what Alex gave him on lunch.\n\nCharlie spent $9 on lunch.\n\nHow much did Alex spend in the shop?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$4"
+        },
+        {
+          "key": "B",
+          "text": "$12"
+        },
+        {
+          "key": "C",
+          "text": "$14"
+        },
+        {
+          "key": "D",
+          "text": "$36"
+        },
+        {
+          "key": "E",
+          "text": "$40"
+        }
+      ],
+      "correct": "A",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 14,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "The diagram shows a triangle inside a rectangle.\n\nThe area shaded grey is 84 cm2.\n\n11 cm\n12 cm\n\n [diagram not to scale]\n\nWhat is the area of the triangle?",
+      "options": [
+        {
+          "key": "A",
+          "text": "33 cm2"
+        },
+        {
+          "key": "B",
+          "text": "37 cm2"
+        },
+        {
+          "key": "C",
+          "text": "42 cm2"
+        },
+        {
+          "key": "D",
+          "text": "48 cm2"
+        },
+        {
+          "key": "E",
+          "text": "52 cm2"
+        }
+      ],
+      "correct": "D",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 15,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Seo-Jung has been recording rainfall for the last 5 weeks by collecting it in a container.\n\nThe container was empty at the start of week 1.\n\nSeo-Jung recorded the amount of rain in the container at the end of each week. No\nwater was lost during the 5 weeks.\n\nThe diagrams show what he recorded.\n\nmL\n200\n100\n400\n300\nmL\n200\n100\n400\n300\nmL\n200\n100\n400\n300\nmL\n200\n100\n400\n300\nmL\n200\n100\n400\n300\nend of\nweek 1\nend of\nweek 2\nend of\nweek 3\nend of\nweek 4\nend of\nweek 5\n\nDuring which two weeks was there exactly the same amount of rainfall?",
+      "options": [
+        {
+          "key": "A",
+          "text": "week 1 and week 2"
+        },
+        {
+          "key": "B",
+          "text": "week 1 and week 4"
+        },
+        {
+          "key": "C",
+          "text": "week 2 and week 3"
+        },
+        {
+          "key": "D",
+          "text": "week 2 and week 4"
+        },
+        {
+          "key": "E",
+          "text": "week 3 and week 5"
+        }
+      ],
+      "correct": "D",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 20,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Here is part of a menu from a café. The prices have been torn off.\n\nMENU\nMENU\nBurger\nChips\nDrinks\n$\n$\n$",
+      "options": [
+        {
+          "key": "A",
+          "text": "burger and a drink cost $6.00 in total."
+        },
+        {
+          "key": "B",
+          "text": "$4.75"
+        },
+        {
+          "key": "C",
+          "text": "$7.25"
+        },
+        {
+          "key": "D",
+          "text": "$7.75"
+        },
+        {
+          "key": "E",
+          "text": "$9.75"
+        }
+      ],
+      "correct": "C",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 22,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "I have an equal number of $1 and $2 coins.\n\nThe total value of my coins is $54.\n\n$1 coins weigh 9 grams and $2 coins weigh 7 grams.\n\nWhat is the total weight of all my coins?",
+      "options": [
+        {
+          "key": "A",
+          "text": "144 g"
+        },
+        {
+          "key": "B",
+          "text": "288 g"
+        },
+        {
+          "key": "C",
+          "text": "414 g"
+        },
+        {
+          "key": "D",
+          "text": "432 g"
+        },
+        {
+          "key": "E",
+          "text": "576 g"
+        }
+      ],
+      "correct": "B",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 23,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Two statues are 8 kilometres 23 metres apart.",
+      "options": [
+        {
+          "key": "A",
+          "text": "map-maker incorrectly labels the distance between the statues on a map. The"
+        },
+        {
+          "key": "B",
+          "text": "14 km 985 m"
+        },
+        {
+          "key": "C",
+          "text": "15 km 15 m"
+        },
+        {
+          "key": "D",
+          "text": "15 km 85 m"
+        },
+        {
+          "key": "E",
+          "text": "15 km 985 m"
+        }
+      ],
+      "correct": "B",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 24,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Jedda draws a map of an island showing areas where there are only hills, only bush,\nor both. These three areas cover the whole island.\n\nbush (no hills)\nhills and bush\nhills (no bush)\n\nThe total area of the island is 164 km2.\n\nThe total area where there are hills is 132 km2.\n\nThe total area where there is bush is 80 km2.\n\nWhat area of the island has both hills and bush?",
+      "options": [
+        {
+          "key": "A",
+          "text": "24 km2"
+        },
+        {
+          "key": "B",
+          "text": "32 km2"
+        },
+        {
+          "key": "C",
+          "text": "48 km2"
+        },
+        {
+          "key": "D",
+          "text": "52 km2"
+        },
+        {
+          "key": "E",
+          "text": "84 km2"
+        }
+      ],
+      "correct": "C",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 26,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Three planks of wood all have the same length. They are placed next to each other as\nshown.\n\n5 cm\n135 cm\n40 cm\n\n [diagram not to scale]\n\nWhat is the length of one plank of wood?",
+      "options": [
+        {
+          "key": "A",
+          "text": "45 cm"
+        },
+        {
+          "key": "B",
+          "text": "50 cm"
+        },
+        {
+          "key": "C",
+          "text": "60 cm"
+        },
+        {
+          "key": "D",
+          "text": "75 cm"
+        },
+        {
+          "key": "E",
+          "text": "85 cm"
+        }
+      ],
+      "correct": "C",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 29,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "This shape is a trapezium with two right angles:\n\n2 cm\n3 cm\n6 cm\n\n [diagram not to scale]\n\nAnna has a square piece of card with side length 24 cm.\n\nWhat is the greatest possible number of these trapeziums Anna can cut out from this\ncard?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16"
+        },
+        {
+          "key": "B",
+          "text": "24"
+        },
+        {
+          "key": "C",
+          "text": "32"
+        },
+        {
+          "key": "D",
+          "text": "48"
+        },
+        {
+          "key": "E",
+          "text": "64"
+        }
+      ],
+      "correct": "D",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 30,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Jamal makes a number sequence. He chooses the 1st number in the sequence.\n\nThen he follows these two rules, one after the other, repeatedly:\n\n• Subtract 100 to get the next number in the sequence.\n\n• Add 10 to get the next number in the sequence.\n\nThe 6th number in the sequence is 8451.\n\nWhat is the 1st number in Jamal’s sequence?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8171"
+        },
+        {
+          "key": "B",
+          "text": "8181"
+        },
+        {
+          "key": "C",
+          "text": "8711"
+        },
+        {
+          "key": "D",
+          "text": "8721"
+        },
+        {
+          "key": "E",
+          "text": "8731"
+        }
+      ],
+      "correct": "E",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 32,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "This shape is made from rectangles.\n\n14 cm\n16 cm\n3 cm\n2 cm\n1 cm\n3 cm\n5 cm\n1 cm\n\n [diagram not to scale]\n\nWhat is the perimeter of this shape?",
+      "options": [
+        {
+          "key": "A",
+          "text": "44 cm"
+        },
+        {
+          "key": "B",
+          "text": "52 cm"
+        },
+        {
+          "key": "C",
+          "text": "60 cm"
+        },
+        {
+          "key": "D",
+          "text": "64 cm"
+        },
+        {
+          "key": "E",
+          "text": "68 cm"
+        }
+      ],
+      "correct": "E",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 34,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Harry has a large, solid cube made from 64 small cubes:\n\nHe removes some small cubes. He now sees this view when he looks at any of the\nsix faces:\n\nHow many small cubes are in the object now?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16"
+        },
+        {
+          "key": "B",
+          "text": "32"
+        },
+        {
+          "key": "C",
+          "text": "36"
+        },
+        {
+          "key": "D",
+          "text": "40"
+        },
+        {
+          "key": "E",
+          "text": "72"
+        }
+      ],
+      "correct": "B",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-placement-test-mathematical-rea",
+      "testId": "2022-2022-placement-test-mathematical-reasoning-newcollege-nc-2022-shspt-mathema",
+      "testTitle": "2022 Placement Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 36,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "She wants to use these pictures only in her picture graph:\n\nwhole flower\nhalf flower\n\nShe will not draw any other fractions of a flower.\n\nWhich of these keys can she use to represent the data correctly?\n\nkey X:\nrepresents 4 bunches\n\nkey Y:\nrepresents 8 bunches\n\nkey Z:\nrepresents 12 bunches",
+      "options": [
+        {
+          "key": "A",
+          "text": "none of them"
+        },
+        {
+          "key": "B",
+          "text": "key X or key Y only"
+        },
+        {
+          "key": "C",
+          "text": "key X or key Z only"
+        },
+        {
+          "key": "D",
+          "text": "key Y or key Z only"
+        },
+        {
+          "key": "E",
+          "text": "key X, Y or Z"
+        }
+      ],
+      "correct": null,
+      "promptBullets": [],
+      "hasAnswer": false
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Ngali has a music playlist.\n\nThe first song is 4 minutes long.\n\nThere are 3 more songs, and each song is 30 seconds shorter than the song before it.\n\nHow long is Ngali’s playlist?",
+      "options": [
+        {
+          "key": "A",
+          "text": "13 minutes"
+        },
+        {
+          "key": "B",
+          "text": "14 minutes 30 seconds"
+        },
+        {
+          "key": "C",
+          "text": "16 minutes"
+        },
+        {
+          "key": "D",
+          "text": "17 minutes 30 seconds"
+        },
+        {
+          "key": "E",
+          "text": "19 minutes"
+        }
+      ],
+      "correct": "A",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 2,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Kevin has some identical cubes and some identical spheres.\n\nThe weight of 8 cubes is the same as the weight of 5 spheres.\n\nOne sphere weighs 560 g.\n\nHow much does one cube weigh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "260 g"
+        },
+        {
+          "key": "B",
+          "text": "350 g"
+        },
+        {
+          "key": "C",
+          "text": "557 g"
+        },
+        {
+          "key": "D",
+          "text": "896 g"
+        },
+        {
+          "key": "E",
+          "text": "2800 g"
+        }
+      ],
+      "correct": "B",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 3,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "In the circle, the angles labelled p and q are both right angles.\n\nThe grey part is 1\n8 of the whole circle.\n\np\nq\n1/8\n\nWhat fraction of the circle is shaded black?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/4"
+        },
+        {
+          "key": "B",
+          "text": "2/7"
+        },
+        {
+          "key": "C",
+          "text": "1/3"
+        },
+        {
+          "key": "D",
+          "text": "3/8"
+        },
+        {
+          "key": "E",
+          "text": "2/5"
+        }
+      ],
+      "correct": "D",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 4,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Rob had a large bag of lollies to share with his friends, Hamid and Vera.\n\nRob gave Hamid half of the lollies from the bag.\n\nThen he gave Vera 20 of the lollies that were left in the bag.\n\nThen there were 24 lollies left in the bag, and Rob kept these for himself.\n\nHow many lollies were in the bag at the start?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "44"
+        },
+        {
+          "key": "C",
+          "text": "48"
+        },
+        {
+          "key": "D",
+          "text": "64"
+        },
+        {
+          "key": "E",
+          "text": "88"
+        }
+      ],
+      "correct": "E",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 6,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Sydney’s time zone is 14 hours ahead of New York’s time zone.\n\nWhen it is 9:30 am on 19th January in Sydney, what is the time and date in New York?",
+      "options": [
+        {
+          "key": "A",
+          "text": "7:30 pm on 18th January"
+        },
+        {
+          "key": "B",
+          "text": "8:30 pm on 18th January"
+        },
+        {
+          "key": "C",
+          "text": "11:30 pm on 18th January"
+        },
+        {
+          "key": "D",
+          "text": "7:30 pm on 19th January"
+        },
+        {
+          "key": "E",
+          "text": "11:30 pm on 19th January"
+        }
+      ],
+      "correct": "A",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 9,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Jacinta has a 2-digit number.\n\nAmber has a 2-digit number.\n\nJacinta multiplies their numbers together.\n\nWhat is/are the possible number(s) of digits in the result?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 only"
+        },
+        {
+          "key": "B",
+          "text": "5 only"
+        },
+        {
+          "key": "C",
+          "text": "3 and 4 only"
+        },
+        {
+          "key": "D",
+          "text": "4 and 5 only"
+        },
+        {
+          "key": "E",
+          "text": "3, 4 and 5 only"
+        }
+      ],
+      "correct": "C",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 11,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Kirra draws a rhombus and a rectangle. They both have the same perimeter.\n\nAll of the sides of the rhombus are 6 cm long.\n\nTwo sides of the rectangle are 4 cm long.\n\nWhat is the area of the rectangle?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16 cm2"
+        },
+        {
+          "key": "B",
+          "text": "24 cm2"
+        },
+        {
+          "key": "C",
+          "text": "32 cm2"
+        },
+        {
+          "key": "D",
+          "text": "64 cm2"
+        },
+        {
+          "key": "E",
+          "text": "128 cm2"
+        }
+      ],
+      "correct": "C",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 12,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Drew works at an airport.\n\nThe graph shows the number of planes on the ground at the airport from 0400 to 1600.\n\ntime\nnumber\nof\nplanes\n3/4\n5/6\n7/8\n9\n10\n11\n12\n13\n14\n15\n0400 0500 0600 0700 0800 0900 1000 1100 1200 1300 1400 1500 1600\n\nDrew started work at 0500.\n\nHow long after Drew started work was the number of planes on the ground double the\nnumber at 0500?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 hours"
+        },
+        {
+          "key": "B",
+          "text": "9 hours"
+        },
+        {
+          "key": "C",
+          "text": "10 hours"
+        },
+        {
+          "key": "D",
+          "text": "11 hours"
+        },
+        {
+          "key": "E",
+          "text": "14 hours"
+        }
+      ],
+      "correct": "B",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 14,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "On a map there is a rectangular field. The measurements of the field on the map are\nshown here:\n\n10 cm\n4 cm\n\n [diagram not to scale]\n\n2 centimetres on the map represents 5 metres in real life.\n\nWhat is the area of the field in real life?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40 m2"
+        },
+        {
+          "key": "B",
+          "text": "70 m2"
+        },
+        {
+          "key": "C",
+          "text": "100 m2"
+        },
+        {
+          "key": "D",
+          "text": "200 m2"
+        },
+        {
+          "key": "E",
+          "text": "250 m2"
+        }
+      ],
+      "correct": "E",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 18,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Here is a bird feeder that is full of seeds.\n\nfull\n\nIt contains exactly the right amount of seeds to feed one magpie every day for 3 days,\nor to feed one wattlebird every day for 6 days.\n\nWhat is the largest number of days that it can feed one magpie and one wattlebird?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1.5 days"
+        },
+        {
+          "key": "B",
+          "text": "2 days"
+        },
+        {
+          "key": "C",
+          "text": "3 days"
+        },
+        {
+          "key": "D",
+          "text": "4.5 days"
+        },
+        {
+          "key": "E",
+          "text": "9 days"
+        }
+      ],
+      "correct": "B",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 19,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Yasmine has four weights: half a kilogram, 800 grams, 250 grams and 400 grams.\n\nWhich of the following totals can be made by adding together two or more of her\nweights?\n\n1\n1450 grams\n\n2\n1100 grams\n\n3\nthree quarters of a kilogram",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 only"
+        },
+        {
+          "key": "B",
+          "text": "1 and 2 only"
+        },
+        {
+          "key": "C",
+          "text": "1 and 3 only"
+        },
+        {
+          "key": "D",
+          "text": "2 and 3 only"
+        },
+        {
+          "key": "E",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correct": "C",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 20,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "In the grid below, Mike is standing in the square labelled M. Nina is standing in the\nsquare labelled N.\n\nM\n6/5\n4/3\n2/1",
+      "options": [
+        {
+          "key": "A",
+          "text": "B C D E"
+        },
+        {
+          "key": "B",
+          "text": "any square in row 3"
+        },
+        {
+          "key": "C",
+          "text": "any square in column D"
+        },
+        {
+          "key": "D",
+          "text": "any square on the line from A6 to F1"
+        },
+        {
+          "key": "E",
+          "text": "any square on the line from B1 to G6"
+        }
+      ],
+      "correct": "E",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 21,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Fraser has eight identical rectangles, each with length 7 cm and width 2 cm, as shown.\n\n2 cm\n7 cm\n\nHe makes the design below by joining the rectangles.\n\n[diagram not to scale]\n\nWhat is the area of the shaded region created in the middle of the design?",
+      "options": [
+        {
+          "key": "A",
+          "text": "75 cm2"
+        },
+        {
+          "key": "B",
+          "text": "95 cm2"
+        },
+        {
+          "key": "C",
+          "text": "105 cm2"
+        },
+        {
+          "key": "D",
+          "text": "117 cm2"
+        },
+        {
+          "key": "E",
+          "text": "147 cm2"
+        }
+      ],
+      "correct": "B",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 22,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "This large solid cube is made from identical smaller cubes.",
+      "options": [
+        {
+          "key": "A",
+          "text": "thick grey line is painted along every edge."
+        },
+        {
+          "key": "B",
+          "text": "36"
+        },
+        {
+          "key": "C",
+          "text": "40"
+        },
+        {
+          "key": "D",
+          "text": "48"
+        },
+        {
+          "key": "E",
+          "text": "52"
+        }
+      ],
+      "correct": "A",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 24,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "These two solid rectangular prisms are made from the same material.\n\n10 cm\n8 cm\n5 cm\n20 cm\n20 cm\n40 cm\n\n[diagram not to scale]\n\nThe smaller rectangular prism weighs 600 g.\n\nHow much does the larger rectangular prism weigh, in kilograms?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2.4 kg"
+        },
+        {
+          "key": "B",
+          "text": "15 kg"
+        },
+        {
+          "key": "C",
+          "text": "24 kg"
+        },
+        {
+          "key": "D",
+          "text": "15 000 kg"
+        },
+        {
+          "key": "E",
+          "text": "24 000 kg"
+        }
+      ],
+      "correct": "C",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 30,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "In the number sentences below, the square, triangle and circle each represent a\ndifferent whole number.\n\n × 4 =\n\n + 24 =\n\n +\n =\n\nWhat number does the square represent?",
+      "options": [
+        {
+          "key": "A",
+          "text": "24"
+        },
+        {
+          "key": "B",
+          "text": "28"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "36"
+        },
+        {
+          "key": "E",
+          "text": "40"
+        }
+      ],
+      "correct": "E",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2023-2023-practice-placement-test-mathema",
+      "testId": "2023-2023-practice-placement-test-mathematical-reasoning-newcollege-nc-2023-shsp",
+      "testTitle": "2023 Practice Placement Test — Mathematical Reasoning Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 31,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Mandra has a 3D object.\n\nShe shines a light on the object from different directions, making different shadows.\n\nWhich of the following objects can Mandra use to make a rectangular shadow?\n\nobject 2: triangular prism\nobject 3: pentagonal prism\nobject 1: cylinder",
+      "options": [
+        {
+          "key": "A",
+          "text": "object 2 only"
+        },
+        {
+          "key": "B",
+          "text": "objects 1 and 2 only"
+        },
+        {
+          "key": "C",
+          "text": "objects 1 and 3 only"
+        },
+        {
+          "key": "D",
+          "text": "objects 2 and 3 only"
+        },
+        {
+          "key": "E",
+          "text": "objects 1, 2 and 3"
+        }
+      ],
+      "correct": "E",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-sample-test-mathematical-reason",
+      "testId": "2022-2022-sample-test-mathematical-reasoning-newcollege-nc-2022-spht-maths-sampl",
+      "testTitle": "2022 Sample Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Sample Test",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "The temperature was 10°C at four different times.\n2/3\nThe temperature change between 1 hour and 3 hours was greater than the\ntemperature change between 4 hours and 6 hours.\nThe lowest temperature was 5°C.",
+      "options": [
+        {
+          "key": "A",
+          "text": "none of the statements"
+        },
+        {
+          "key": "B",
+          "text": "statements 1 and 2 only"
+        },
+        {
+          "key": "C",
+          "text": "statements 1 and 3 only"
+        },
+        {
+          "key": "D",
+          "text": "statements 2 and 3 only"
+        },
+        {
+          "key": "E",
+          "text": "statements 1, 2 and 3\n19"
+        }
+      ],
+      "correct": "E",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-sample-test-mathematical-reason",
+      "testId": "2022-2022-sample-test-mathematical-reasoning-newcollege-nc-2022-spht-maths-sampl",
+      "testTitle": "2022 Sample Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Sample Test",
+      "number": 2,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Sandy’s watch reads 1850.\nWhat is the time one quarter of an hour later, in 12-hour format?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6:35 am"
+        },
+        {
+          "key": "B",
+          "text": "7:05 am"
+        },
+        {
+          "key": "C",
+          "text": "6:35 pm"
+        },
+        {
+          "key": "D",
+          "text": "6:45 pm"
+        },
+        {
+          "key": "E",
+          "text": "7:05 pm\nJack divides a white wall into equal sections.\nHe paints some sections purple, as shown."
+        }
+      ],
+      "correct": "A",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-sample-test-mathematical-reason",
+      "testId": "2022-2022-sample-test-mathematical-reasoning-newcollege-nc-2022-spht-maths-sampl",
+      "testTitle": "2022 Sample Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Sample Test",
+      "number": 3,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Vinayak wants to help, by adding one more square to each net to make a correct cube net.\nHowever, he is not sure if this is possible for all of the drawings.\nWhich of the three drawings can be made into complete cube nets by adding one square?",
+      "options": [
+        {
+          "key": "A",
+          "text": "drawing 1 only"
+        },
+        {
+          "key": "B",
+          "text": "drawing 2 only"
+        },
+        {
+          "key": "C",
+          "text": "drawing 3 only"
+        },
+        {
+          "key": "D",
+          "text": "drawings 1 and 3 only"
+        },
+        {
+          "key": "E",
+          "text": "drawings 1, 2 and 3\n26"
+        }
+      ],
+      "correct": "A",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-sample-test-mathematical-reason",
+      "testId": "2022-2022-sample-test-mathematical-reasoning-newcollege-nc-2022-spht-maths-sampl",
+      "testTitle": "2022 Sample Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Sample Test",
+      "number": 4,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Rana needs 650 grams of cooking sauce.\nShe places a glass jar of cooking sauce on a scale.\n0\n200\n400\n600\n800\n1000\ng\n100\n300\n500\n700\n900\nThe glass jar weighs 330 g when empty.\nHow much more cooking sauce does Rana need?",
+      "options": [
+        {
+          "key": "A",
+          "text": "100 g"
+        },
+        {
+          "key": "B",
+          "text": "130 g"
+        },
+        {
+          "key": "C",
+          "text": "200 g"
+        },
+        {
+          "key": "D",
+          "text": "230 g"
+        },
+        {
+          "key": "E",
+          "text": "430 g\n4"
+        }
+      ],
+      "correct": "D",
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "mathematical-reasoning-2022-2022-sample-test-mathematical-reason",
+      "testId": "2022-2022-sample-test-mathematical-reasoning-newcollege-nc-2022-spht-maths-sampl",
+      "testTitle": "2022 Sample Test — Mathematical Reasoning Test",
+      "year": "2022",
+      "testGroup": "2022 Sample Test",
+      "number": 27,
+      "passageRefs": [],
+      "responseType": "mcq",
+      "stem": "Kylie lives in Las Vegas and she visits her cousin Mike, who lives in Sydney.\nKylie leaves Las Vegas on Friday at 1300 local time on a 6-hour flight to New York.\nShe spends 24 hours in New York.\nShe then catches a 20-hour flight to Sydney.\nThe time in Las Vegas is 17 hours behind the time in Sydney.\nWhat time is it in Sydney when Kylie arrives?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Monday at 0800"
+        },
+        {
+          "key": "B",
+          "text": "Wednesday at 1100"
+        },
+        {
+          "key": "C",
+          "text": "Saturday at 2200"
+        },
+        {
+          "key": "D",
+          "text": "Sunday at 1500"
+        },
+        {
+          "key": "E",
+          "text": "Sunday at 2300\n22"
+        }
+      ],
+      "correct": "A",
+      "promptBullets": [],
+      "hasAnswer": true
+    }
+  ]
+}

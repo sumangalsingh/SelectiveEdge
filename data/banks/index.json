@@ -1,0 +1,37 @@
+{
+  "sections": [
+    {
+      "section": "reading",
+      "label": "Reading Test",
+      "file": "banks/reading.json",
+      "testCount": 8,
+      "bankQuestions": 148,
+      "withAnswers": 33
+    },
+    {
+      "section": "mathematical-reasoning",
+      "label": "Mathematical Reasoning Test",
+      "file": "banks/mathematical-reasoning.json",
+      "testCount": 4,
+      "bankQuestions": 59,
+      "withAnswers": 58
+    },
+    {
+      "section": "thinking-skills",
+      "label": "Thinking Skills Test",
+      "file": "banks/thinking-skills.json",
+      "testCount": 8,
+      "bankQuestions": 171,
+      "withAnswers": 68
+    },
+    {
+      "section": "writing",
+      "label": "Writing Test",
+      "file": "banks/writing.json",
+      "testCount": 12,
+      "bankQuestions": 12,
+      "withAnswers": 12
+    }
+  ],
+  "generatedAt": "2026-05-30T13:55:01.118228+00:00"
+}

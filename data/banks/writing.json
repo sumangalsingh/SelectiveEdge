@@ -1,0 +1,626 @@
+{
+  "schemaVersion": 1,
+  "section": "writing",
+  "sectionLabel": "Writing Test",
+  "minutes": 30,
+  "optionCount": 0,
+  "generatedAt": "2026-05-30T13:55:01.138112+00:00",
+  "stats": {
+    "testCount": 12,
+    "totalQuestionsInTests": 12,
+    "uniqueBankQuestions": 12,
+    "withKnownAnswers": 12
+  },
+  "tests": [
+    {
+      "id": "2021-2021-full-sample-test-writing-preuni-pu-2021-sample-writing",
+      "title": "2021 Full Sample Test — Writing Test",
+      "year": "2021",
+      "testGroup": "2021 Full Sample Test",
+      "source": "preuni",
+      "minutes": 30,
+      "expectedQuestions": 1,
+      "questionCount": 1,
+      "answeredCount": 1,
+      "completeness": 1.0,
+      "playable": true,
+      "recommended": false,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "open",
+          "stem": "A new superhero\n\nA movie company is holding a competition to win $1000. To enter you have to send an\nemail to the company giving original ideas for a new superhero character for a\nblockbuster movie, graphic novel or book.\n\nWrite your email.\n\nIn your email, you could:\n\n• describe what the character looks like\n• explain how they use their superpowers\n• say why this character would be popular.",
+          "options": [],
+          "correct": null,
+          "promptBullets": [
+            "describe what the character looks like",
+            "explain how they use their superpowers",
+            "say why this character would be popular."
+          ],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/preuni/pu_2021-sample_Writing.pdf",
+      "answerPdf": null,
+      "warnings": []
+    },
+    {
+      "id": "2021-2021-full-sample-test-writing-preuni-pu-2021-sample-writing-1",
+      "title": "2021 Full Sample Test — Writing Test",
+      "year": "2021",
+      "testGroup": "2021 Full Sample Test",
+      "source": "preuni",
+      "minutes": 30,
+      "expectedQuestions": 1,
+      "questionCount": 1,
+      "answeredCount": 1,
+      "completeness": 1.0,
+      "playable": true,
+      "recommended": false,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "open",
+          "stem": "Page 1 of 2\nSelective High School Placement Test 2023 Writing - Answer sheet Z9936\nStudent application number\nS 2 3 0\nYour answer must be contained within this area.\nFirst name(s)\nFamily name\nPage 1 of 2\n© Cambridge University Press & Assessment\n\n9841\n\nPage 2 of 2\nStudent application number\nS 2 3 0\n9841",
+          "options": [],
+          "correct": null,
+          "promptBullets": [
+            "Answer sheet Z9936"
+          ],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/preuni/pu_2021-sample_Writing_1.pdf",
+      "answerPdf": null,
+      "warnings": []
+    },
+    {
+      "id": "2021-2021-full-sample-test-writing-preuni-pu-2021-sample-writing-2",
+      "title": "2021 Full Sample Test — Writing Test",
+      "year": "2021",
+      "testGroup": "2021 Full Sample Test",
+      "source": "preuni",
+      "minutes": 30,
+      "expectedQuestions": 1,
+      "questionCount": 1,
+      "answeredCount": 1,
+      "completeness": 1.0,
+      "playable": true,
+      "recommended": false,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "open",
+          "stem": "In the future\n\nImagine the date is July 19th 2099.\n\nWrite a diary entry of someone your own age who is living in the future. Use the\nsentence below to start your diary:\n\nDear Diary,\n\nWhen our house robot woke me up with its loud singing, I remembered that...\n\nIn your writing, you could include interesting, futuristic details about:\n\n• technology\n• ways to travel\n•\nhome and social life.\n\n4\n\nBLANK PAGE",
+          "options": [],
+          "correct": null,
+          "promptBullets": [
+            "technology",
+            "ways to travel",
+            "home and social life."
+          ],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/preuni/pu_2021-sample_Writing_2.pdf",
+      "answerPdf": null,
+      "warnings": []
+    },
+    {
+      "id": "2021-2021-full-sample-test-writing-preuni-pu-2021-sample-writing-3",
+      "title": "2021 Full Sample Test — Writing Test",
+      "year": "2021",
+      "testGroup": "2021 Full Sample Test",
+      "source": "preuni",
+      "minutes": 30,
+      "expectedQuestions": 1,
+      "questionCount": 1,
+      "answeredCount": 1,
+      "completeness": 1.0,
+      "playable": true,
+      "recommended": false,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "open",
+          "stem": "Page 1 of 2\nUniversity of Cambridge Local Examinations Syndicate\nSelective High School Placement Test Writing - Answer sheet Z9936\nStudent application number\nS 2 1 0\nYour answer must be contained within this area.\nGiven name(s)\nFamily name\nPage 1 of 2\nUniversity of Cambridge Local Examinations Syndicate\n\nStudent application number\nS 2 1 0\n45007\n\nPage 2 of 2\nUniversity of Cambridge Local Examinations Syndicate\nStudent application number\nS 2 1 0\n45007",
+          "options": [],
+          "correct": null,
+          "promptBullets": [
+            "Answer sheet Z9936"
+          ],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/preuni/pu_2021-sample_Writing_3.pdf",
+      "answerPdf": null,
+      "warnings": []
+    },
+    {
+      "id": "2021-2021-placement-test-writing-newcollege-nc-2021-shspt-writing-question",
+      "title": "2021 Placement Test — Writing Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "source": "newcollege",
+      "minutes": 30,
+      "expectedQuestions": 1,
+      "questionCount": 1,
+      "answeredCount": 1,
+      "completeness": 1.0,
+      "playable": true,
+      "recommended": false,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "open",
+          "stem": "Chaos on the beach\n\nA shipping container with party accessories has been washed up on a beach. The\ncontainer has burst open and the contents have gone everywhere. Crowds of people\nhave rushed to the beach to have a look at the balloons, plastic straws, plates, cups\nand fancy dress costumes, etc.\n\nWrite a newspaper report about this incident for the local paper.\n\nIn your report, you could:\n\n• explain what has happened\n• describe the impact on the beach and the sea\n• include comments from different people.\n\n4\n\nBLANK PAGE",
+          "options": [],
+          "correct": null,
+          "promptBullets": [
+            "explain what has happened",
+            "describe the impact on the beach and the sea",
+            "include comments from different people."
+          ],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/newcollege/nc_2021_SHSPT-Writing-question.pdf",
+      "answerPdf": null,
+      "warnings": []
+    },
+    {
+      "id": "2022-2022-placement-test-writing-newcollege-nc-2022-shspt-writing-question-paper",
+      "title": "2022 Placement Test — Writing Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "source": "newcollege",
+      "minutes": 30,
+      "expectedQuestions": 1,
+      "questionCount": 1,
+      "answeredCount": 1,
+      "completeness": 1.0,
+      "playable": true,
+      "recommended": false,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "open",
+          "stem": "In the future\n\nImagine the date is July 19th 2099.\n\nWrite a diary entry of someone your own age who is living in the future. Use the\nsentence below to start your diary:\n\nDear Diary,\n\nWhen our house robot woke me up with its loud singing, I remembered that...\n\nIn your writing, you could include interesting, futuristic details about:\n\n• technology\n• ways to travel\n•\nhome and social life.\n\n4\n\nBLANK PAGE",
+          "options": [],
+          "correct": null,
+          "promptBullets": [
+            "technology",
+            "ways to travel",
+            "home and social life."
+          ],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/newcollege/nc_2022_SHSPT_WRITING_QUESTION_PAPER.pdf",
+      "answerPdf": null,
+      "warnings": []
+    },
+    {
+      "id": "2022-2022-sample-test-writing-newcollege-nc-2022-spht-reading-maths-thinking-wri",
+      "title": "2022 Sample Test — Writing Test",
+      "year": "2022",
+      "testGroup": "2022 Sample Test",
+      "source": "newcollege",
+      "minutes": 30,
+      "expectedQuestions": 1,
+      "questionCount": 1,
+      "answeredCount": 1,
+      "completeness": 1.0,
+      "playable": true,
+      "recommended": false,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "open",
+          "stem": "New to the area\nThree new students have just arrived in your local area. Your teacher has asked you to write an\nadvice sheet for them, making them feel enthusiastic about coming to your school.\nWrite an advice sheet for the new students about how to get on well in your school and\nlocal area.\n3\n\nBLANK PAGE\n4",
+          "options": [],
+          "correct": null,
+          "promptBullets": [],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/newcollege/nc_2022-SPHT_reading-maths-thinking-writing-sample-test-questions.pdf",
+      "answerPdf": null,
+      "warnings": []
+    },
+    {
+      "id": "2022-2022-sample-test-writing-newcollege-nc-2022-spht-writing-sample-test-questi",
+      "title": "2022 Sample Test — Writing Test",
+      "year": "2022",
+      "testGroup": "2022 Sample Test",
+      "source": "newcollege",
+      "minutes": 30,
+      "expectedQuestions": 1,
+      "questionCount": 1,
+      "answeredCount": 1,
+      "completeness": 1.0,
+      "playable": true,
+      "recommended": false,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "open",
+          "stem": "New to the area\nThree new students have just arrived in your local area. Your teacher has asked you to write an\nadvice sheet for them, making them feel enthusiastic about coming to your school.\nWrite an advice sheet for the new students about how to get on well in your school and\nlocal area.\n3\n\nBLANK PAGE\n4",
+          "options": [],
+          "correct": null,
+          "promptBullets": [],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/newcollege/nc_2022-SPHT_writing-sample-test-questions.pdf",
+      "answerPdf": null,
+      "warnings": []
+    },
+    {
+      "id": "2023-2023-practice-placement-test-writing-newcollege-nc-2023-shspt-writing-pract",
+      "title": "2023 Practice Placement Test — Writing Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "source": "newcollege",
+      "minutes": 30,
+      "expectedQuestions": 1,
+      "questionCount": 1,
+      "answeredCount": 1,
+      "completeness": 1.0,
+      "playable": true,
+      "recommended": false,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "open",
+          "stem": "A new superhero\n\nA movie company is holding a competition to win $1000. To enter you have to send an\nemail to the company giving original ideas for a new superhero character for a\nblockbuster movie, graphic novel or book.\n\nWrite your email.\n\nIn your email, you could:\n\n• describe what the character looks like\n• explain how they use their superpowers\n• say why this character would be popular.",
+          "options": [],
+          "correct": null,
+          "promptBullets": [
+            "describe what the character looks like",
+            "explain how they use their superpowers",
+            "say why this character would be popular."
+          ],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/newcollege/nc_2023_SHSPT_Writing-practice-test-questions.pdf",
+      "answerPdf": null,
+      "warnings": []
+    },
+    {
+      "id": "archive-pstp-writing-newcollege-nc-pstp-wriing1",
+      "title": "PSTP — Writing Test",
+      "year": "archive",
+      "testGroup": "PSTP",
+      "source": "newcollege",
+      "minutes": 30,
+      "expectedQuestions": 1,
+      "questionCount": 1,
+      "answeredCount": 1,
+      "completeness": 1.0,
+      "playable": true,
+      "recommended": false,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "open",
+          "stem": "art of the question booklet contains a picture you should use as the basis for a\npiece of writing.\n2 You have 20 minutes to write.\n3 You are to write in the writing section of your answer booklet.\n4 The writing which will get the highest marks will have a combination of the following:\n•\n A title which sums up in a word or short phrase what the whole piece of\nwriting is about\n•\n Interesting and unusual ideas, stories, descriptions, arguments, depending on\nthe type of writing\n•\n Language which is fluent and allows the reader to visualise exactly what the\nwriter means using interesting and more complex sentence constructions,\nvocabulary and imagery\n•\n A complete structure so that there is a progression through stages leading to\na conclusion.\nThe amount you write is not as important as the quality of your writing.\n6 This is not a test of your handwriting, but remember that to get marks someone has to\nbe able to read your writing.\n7 There is a blank space for planning on the next page of this question booklet where you\nmay jot ideas or make a plan if you wish. Writing in this space will not be marked.\n8 Wait for your instructions to begin the writing test.\n\nPage 2\nThis test contains security features to protect against illegal use\n SAMPLE PLANNING PAGE\nUse the space below for planning if you require it.\nYour planning will not be marked and no extra time is allowed for planning.\nWhen you have finished your planning,\nwrite your response in the writing section of your answer booklet.",
+          "options": [],
+          "correct": null,
+          "promptBullets": [
+            "A title which sums up in a word or short phrase what the whole piece of",
+            "Interesting and unusual ideas, stories, descriptions, arguments, depending on",
+            "Language which is fluent and allows the reader to visualise exactly what the",
+            "A complete structure so that there is a progression through stages leading to"
+          ],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/newcollege/nc_PSTP_Wriing1.pdf",
+      "answerPdf": null,
+      "warnings": []
+    },
+    {
+      "id": "archive-pstp-writing-newcollege-nc-pstp-wriing2",
+      "title": "PSTP — Writing Test",
+      "year": "archive",
+      "testGroup": "PSTP",
+      "source": "newcollege",
+      "minutes": 30,
+      "expectedQuestions": 1,
+      "questionCount": 1,
+      "answeredCount": 1,
+      "completeness": 1.0,
+      "playable": true,
+      "recommended": false,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "open",
+          "stem": "Page 3\nThis test contains security features to protect against illegal use\nSAMPLE WRITING TEST PROMPT 1\nSAMPLE INSTRUCTIONS\nUse the following picture as the basis for a piece of writing.\nYou may use any text type you wish.\nMarks will be awarded only for writing that is related to this picture.\nMarks will not be awarded for writing that is not your own original work.",
+          "options": [],
+          "correct": null,
+          "promptBullets": [],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/newcollege/nc_PSTP_Wriing2.pdf",
+      "answerPdf": null,
+      "warnings": []
+    },
+    {
+      "id": "archive-pstp-writing-newcollege-nc-pstp-wriing3",
+      "title": "PSTP — Writing Test",
+      "year": "archive",
+      "testGroup": "PSTP",
+      "source": "newcollege",
+      "minutes": 30,
+      "expectedQuestions": 1,
+      "questionCount": 1,
+      "answeredCount": 1,
+      "completeness": 1.0,
+      "playable": true,
+      "recommended": false,
+      "passages": [],
+      "questions": [
+        {
+          "number": 1,
+          "passageRefs": [],
+          "responseType": "open",
+          "stem": "Page 4\nThis test contains security features to protect against illegal use\nSAMPLE WRITING TEST PROMPT 2\nSAMPLE INSTRUCTIONS\nUse the following idea as the basis for a piece of writing. Your writing can take the form\nof narrative, informative or persuasive writing.\nIf you had just one wish to make the world a\nbetter place, what would you wish for?\nYour writing will be judged on:\n•\nwhat you write in response to the stimulus (the quality of your ideas)\n•\nhow well you organise your writing\n•\nhow clearly you express yourself (the words you choose and the quality of your sentences)\n•\nhow effective and engaging your writing is for a reader",
+          "options": [],
+          "correct": null,
+          "promptBullets": [
+            "what you write in response to the stimulus (the quality of your ideas)",
+            "how well you organise your writing",
+            "how clearly you express yourself (the words you choose and the quality of your sentences)",
+            "how effective and engaging your writing is for a reader"
+          ],
+          "hasAnswer": true
+        }
+      ],
+      "questionPdf": "papers/newcollege/nc_PSTP_Wriing3.pdf",
+      "answerPdf": null,
+      "warnings": []
+    }
+  ],
+  "questionBank": [
+    {
+      "bankId": "writing-2021-2021-full-sample-test-writing-preuni-pu-2021-sample",
+      "testId": "2021-2021-full-sample-test-writing-preuni-pu-2021-sample-writing",
+      "testTitle": "2021 Full Sample Test — Writing Test",
+      "year": "2021",
+      "testGroup": "2021 Full Sample Test",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "open",
+      "stem": "A new superhero\n\nA movie company is holding a competition to win $1000. To enter you have to send an\nemail to the company giving original ideas for a new superhero character for a\nblockbuster movie, graphic novel or book.\n\nWrite your email.\n\nIn your email, you could:\n\n• describe what the character looks like\n• explain how they use their superpowers\n• say why this character would be popular.",
+      "options": [],
+      "correct": null,
+      "promptBullets": [
+        "describe what the character looks like",
+        "explain how they use their superpowers",
+        "say why this character would be popular."
+      ],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "writing-2021-2021-full-sample-test-writing-preuni-pu-2021-sample",
+      "testId": "2021-2021-full-sample-test-writing-preuni-pu-2021-sample-writing-1",
+      "testTitle": "2021 Full Sample Test — Writing Test",
+      "year": "2021",
+      "testGroup": "2021 Full Sample Test",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "open",
+      "stem": "Page 1 of 2\nSelective High School Placement Test 2023 Writing - Answer sheet Z9936\nStudent application number\nS 2 3 0\nYour answer must be contained within this area.\nFirst name(s)\nFamily name\nPage 1 of 2\n© Cambridge University Press & Assessment\n\n9841\n\nPage 2 of 2\nStudent application number\nS 2 3 0\n9841",
+      "options": [],
+      "correct": null,
+      "promptBullets": [
+        "Answer sheet Z9936"
+      ],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "writing-2021-2021-full-sample-test-writing-preuni-pu-2021-sample",
+      "testId": "2021-2021-full-sample-test-writing-preuni-pu-2021-sample-writing-2",
+      "testTitle": "2021 Full Sample Test — Writing Test",
+      "year": "2021",
+      "testGroup": "2021 Full Sample Test",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "open",
+      "stem": "In the future\n\nImagine the date is July 19th 2099.\n\nWrite a diary entry of someone your own age who is living in the future. Use the\nsentence below to start your diary:\n\nDear Diary,\n\nWhen our house robot woke me up with its loud singing, I remembered that...\n\nIn your writing, you could include interesting, futuristic details about:\n\n• technology\n• ways to travel\n•\nhome and social life.\n\n4\n\nBLANK PAGE",
+      "options": [],
+      "correct": null,
+      "promptBullets": [
+        "technology",
+        "ways to travel",
+        "home and social life."
+      ],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "writing-2021-2021-full-sample-test-writing-preuni-pu-2021-sample",
+      "testId": "2021-2021-full-sample-test-writing-preuni-pu-2021-sample-writing-3",
+      "testTitle": "2021 Full Sample Test — Writing Test",
+      "year": "2021",
+      "testGroup": "2021 Full Sample Test",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "open",
+      "stem": "Page 1 of 2\nUniversity of Cambridge Local Examinations Syndicate\nSelective High School Placement Test Writing - Answer sheet Z9936\nStudent application number\nS 2 1 0\nYour answer must be contained within this area.\nGiven name(s)\nFamily name\nPage 1 of 2\nUniversity of Cambridge Local Examinations Syndicate\n\nStudent application number\nS 2 1 0\n45007\n\nPage 2 of 2\nUniversity of Cambridge Local Examinations Syndicate\nStudent application number\nS 2 1 0\n45007",
+      "options": [],
+      "correct": null,
+      "promptBullets": [
+        "Answer sheet Z9936"
+      ],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "writing-2021-2021-placement-test-writing-newcollege-nc-2021-shsp",
+      "testId": "2021-2021-placement-test-writing-newcollege-nc-2021-shspt-writing-question",
+      "testTitle": "2021 Placement Test — Writing Test",
+      "year": "2021",
+      "testGroup": "2021 Placement Test",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "open",
+      "stem": "Chaos on the beach\n\nA shipping container with party accessories has been washed up on a beach. The\ncontainer has burst open and the contents have gone everywhere. Crowds of people\nhave rushed to the beach to have a look at the balloons, plastic straws, plates, cups\nand fancy dress costumes, etc.\n\nWrite a newspaper report about this incident for the local paper.\n\nIn your report, you could:\n\n• explain what has happened\n• describe the impact on the beach and the sea\n• include comments from different people.\n\n4\n\nBLANK PAGE",
+      "options": [],
+      "correct": null,
+      "promptBullets": [
+        "explain what has happened",
+        "describe the impact on the beach and the sea",
+        "include comments from different people."
+      ],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "writing-2022-2022-placement-test-writing-newcollege-nc-2022-shsp",
+      "testId": "2022-2022-placement-test-writing-newcollege-nc-2022-shspt-writing-question-paper",
+      "testTitle": "2022 Placement Test — Writing Test",
+      "year": "2022",
+      "testGroup": "2022 Placement Test",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "open",
+      "stem": "In the future\n\nImagine the date is July 19th 2099.\n\nWrite a diary entry of someone your own age who is living in the future. Use the\nsentence below to start your diary:\n\nDear Diary,\n\nWhen our house robot woke me up with its loud singing, I remembered that...\n\nIn your writing, you could include interesting, futuristic details about:\n\n• technology\n• ways to travel\n•\nhome and social life.\n\n4\n\nBLANK PAGE",
+      "options": [],
+      "correct": null,
+      "promptBullets": [
+        "technology",
+        "ways to travel",
+        "home and social life."
+      ],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "writing-2022-2022-sample-test-writing-newcollege-nc-2022-spht-re",
+      "testId": "2022-2022-sample-test-writing-newcollege-nc-2022-spht-reading-maths-thinking-wri",
+      "testTitle": "2022 Sample Test — Writing Test",
+      "year": "2022",
+      "testGroup": "2022 Sample Test",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "open",
+      "stem": "New to the area\nThree new students have just arrived in your local area. Your teacher has asked you to write an\nadvice sheet for them, making them feel enthusiastic about coming to your school.\nWrite an advice sheet for the new students about how to get on well in your school and\nlocal area.\n3\n\nBLANK PAGE\n4",
+      "options": [],
+      "correct": null,
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "writing-2022-2022-sample-test-writing-newcollege-nc-2022-spht-wr",
+      "testId": "2022-2022-sample-test-writing-newcollege-nc-2022-spht-writing-sample-test-questi",
+      "testTitle": "2022 Sample Test — Writing Test",
+      "year": "2022",
+      "testGroup": "2022 Sample Test",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "open",
+      "stem": "New to the area\nThree new students have just arrived in your local area. Your teacher has asked you to write an\nadvice sheet for them, making them feel enthusiastic about coming to your school.\nWrite an advice sheet for the new students about how to get on well in your school and\nlocal area.\n3\n\nBLANK PAGE\n4",
+      "options": [],
+      "correct": null,
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "writing-2023-2023-practice-placement-test-writing-newcollege-nc-",
+      "testId": "2023-2023-practice-placement-test-writing-newcollege-nc-2023-shspt-writing-pract",
+      "testTitle": "2023 Practice Placement Test — Writing Test",
+      "year": "2023",
+      "testGroup": "2023 Practice Placement Test",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "open",
+      "stem": "A new superhero\n\nA movie company is holding a competition to win $1000. To enter you have to send an\nemail to the company giving original ideas for a new superhero character for a\nblockbuster movie, graphic novel or book.\n\nWrite your email.\n\nIn your email, you could:\n\n• describe what the character looks like\n• explain how they use their superpowers\n• say why this character would be popular.",
+      "options": [],
+      "correct": null,
+      "promptBullets": [
+        "describe what the character looks like",
+        "explain how they use their superpowers",
+        "say why this character would be popular."
+      ],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "writing-archive-pstp-writing-newcollege-nc-pstp-wriing1-q1",
+      "testId": "archive-pstp-writing-newcollege-nc-pstp-wriing1",
+      "testTitle": "PSTP — Writing Test",
+      "year": "archive",
+      "testGroup": "PSTP",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "open",
+      "stem": "art of the question booklet contains a picture you should use as the basis for a\npiece of writing.\n2 You have 20 minutes to write.\n3 You are to write in the writing section of your answer booklet.\n4 The writing which will get the highest marks will have a combination of the following:\n•\n A title which sums up in a word or short phrase what the whole piece of\nwriting is about\n•\n Interesting and unusual ideas, stories, descriptions, arguments, depending on\nthe type of writing\n•\n Language which is fluent and allows the reader to visualise exactly what the\nwriter means using interesting and more complex sentence constructions,\nvocabulary and imagery\n•\n A complete structure so that there is a progression through stages leading to\na conclusion.\nThe amount you write is not as important as the quality of your writing.\n6 This is not a test of your handwriting, but remember that to get marks someone has to\nbe able to read your writing.\n7 There is a blank space for planning on the next page of this question booklet where you\nmay jot ideas or make a plan if you wish. Writing in this space will not be marked.\n8 Wait for your instructions to begin the writing test.\n\nPage 2\nThis test contains security features to protect against illegal use\n SAMPLE PLANNING PAGE\nUse the space below for planning if you require it.\nYour planning will not be marked and no extra time is allowed for planning.\nWhen you have finished your planning,\nwrite your response in the writing section of your answer booklet.",
+      "options": [],
+      "correct": null,
+      "promptBullets": [
+        "A title which sums up in a word or short phrase what the whole piece of",
+        "Interesting and unusual ideas, stories, descriptions, arguments, depending on",
+        "Language which is fluent and allows the reader to visualise exactly what the",
+        "A complete structure so that there is a progression through stages leading to"
+      ],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "writing-archive-pstp-writing-newcollege-nc-pstp-wriing2-q1",
+      "testId": "archive-pstp-writing-newcollege-nc-pstp-wriing2",
+      "testTitle": "PSTP — Writing Test",
+      "year": "archive",
+      "testGroup": "PSTP",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "open",
+      "stem": "Page 3\nThis test contains security features to protect against illegal use\nSAMPLE WRITING TEST PROMPT 1\nSAMPLE INSTRUCTIONS\nUse the following picture as the basis for a piece of writing.\nYou may use any text type you wish.\nMarks will be awarded only for writing that is related to this picture.\nMarks will not be awarded for writing that is not your own original work.",
+      "options": [],
+      "correct": null,
+      "promptBullets": [],
+      "hasAnswer": true
+    },
+    {
+      "bankId": "writing-archive-pstp-writing-newcollege-nc-pstp-wriing3-q1",
+      "testId": "archive-pstp-writing-newcollege-nc-pstp-wriing3",
+      "testTitle": "PSTP — Writing Test",
+      "year": "archive",
+      "testGroup": "PSTP",
+      "number": 1,
+      "passageRefs": [],
+      "responseType": "open",
+      "stem": "Page 4\nThis test contains security features to protect against illegal use\nSAMPLE WRITING TEST PROMPT 2\nSAMPLE INSTRUCTIONS\nUse the following idea as the basis for a piece of writing. Your writing can take the form\nof narrative, informative or persuasive writing.\nIf you had just one wish to make the world a\nbetter place, what would you wish for?\nYour writing will be judged on:\n•\nwhat you write in response to the stimulus (the quality of your ideas)\n•\nhow well you organise your writing\n•\nhow clearly you express yourself (the words you choose and the quality of your sentences)\n•\nhow effective and engaging your writing is for a reader",
+      "options": [],
+      "correct": null,
+      "promptBullets": [
+        "what you write in response to the stimulus (the quality of your ideas)",
+        "how well you organise your writing",
+        "how clearly you express yourself (the words you choose and the quality of your sentences)",
+        "how effective and engaging your writing is for a reader"
+      ],
+      "hasAnswer": true
+    }
+  ]
+}
